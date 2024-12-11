@@ -60,7 +60,7 @@
 
     <script>
         // Load publications.json and render the list
-        fetch('publications.json')
+        fetch('/publications.json')
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById('publications');
