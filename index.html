@@ -3,140 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publication Gallery</title>
+    <title>Lab Publications</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
         }
         .container {
-            max-width: 1200px;
+            padding: 20px;
+            max-width: 900px;
             margin: auto;
-        }
-        .filters, .sort-options {
-            margin-bottom: 20px;
-        }
-        .filters input, .sort-options select {
-            padding: 5px;
-            margin-right: 10px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .publication {
-            border: 1px solid #ddd;
-            padding: 15px;
-            margin-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
         }
-        .publication-title {
-            font-size: 1.2em;
-            font-weight: bold;
+        .publication h3 {
+            margin: 0;
         }
-        .publication-details {
-            font-size: 0.9em;
+        .publication a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        .publication a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
             color: #555;
         }
     </style>
 </head>
 <body>
-
-    <div class="container">
-        <h1>Publication Gallery</h1>
-
-        <!-- Search bar -->
-        <div class="filters">
-            <label for="search">Search: </label>
-            <input type="text" id="search" placeholder="Search by title or author..." oninput="filterPublications()">
-        </div>
-
-        <!-- Sort options -->
-        <div class="sort-options">
-            <label for="sort">Sort by: </label>
-            <select id="sort" onchange="sortPublications()">
-                <option value="title">Title</option>
-                <option value="year">Year</option>
-                <option value="authors">Authors</option>
-            </select>
-        </div>
-
-        <!-- Filter by year -->
-        <div class="filters">
-            <label for="year-filter">Filter by year: </label>
-            <input type="number" id="year-filter" placeholder="Enter year" oninput="filterPublications()">
-        </div>
-
-        <div id="publications-list"></div>
+    <header>
+        <h1>Lab Publications</h1>
+    </header>
+    <div class="container" id="publications">
+        <!-- Publications will be dynamically inserted here -->
     </div>
+    <footer>
+        &copy; 2024 Lab Publications
+    </footer>
 
     <script>
-        let publications = [];
-        let filteredPublications = [];
+        // Load publications.json and render the list
+        fetch('publications.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('publications');
 
-        // Fetch publications from publications.json
-        async function fetchPublications() {
-            try {
-                const response = await fetch('publications.json');
-                publications = await response.json();
-                filteredPublications = [...publications];  // Initialize filtered list
-                renderPublications();
-            } catch (error) {
-                console.error('Error fetching publications:', error);
-            }
-        }
+                data.forEach(publication => {
+                    const div = document.createElement('div');
+                    div.className = 'publication';
 
-        // Render publications list
-        function renderPublications() {
-            const publicationsList = document.getElementById('publications-list');
-            publicationsList.innerHTML = '';  // Clear previous list
+                    const title = document.createElement('h3');
+                    title.innerHTML = `<a href="${publication.pub_url || '#'}" target="_blank">${publication.bib.title}</a>`;
 
-            filteredPublications.forEach(pub => {
-                const publicationElement = document.createElement('div');
-                publicationElement.className = 'publication';
+                    const authors = document.createElement('p');
+                    authors.textContent = `Authors: ${publication.bib.author}`;
 
-                publicationElement.innerHTML = `
-                    <div class="publication-title">${pub.title}</div>
-                    <div class="publication-details">
-                        <p><strong>Authors:</strong> ${pub.authors}</p>
-                        <p><strong>Journal:</strong> ${pub.journal}</p>
-                        <p><strong>Year:</strong> ${pub.year}</p>
-                        <p><strong>DOI:</strong> ${pub.doi}</p>
-                    </div>
-                `;
-                publicationsList.appendChild(publicationElement);
+                    const year = document.createElement('p');
+                    year.textContent = `Year: ${publication.bib.pub_year}`;
+
+                    const venue = document.createElement('p');
+                    venue.textContent = `Venue: ${publication.bib.venue || 'N/A'}`;
+
+                    const abstract = document.createElement('p');
+                    abstract.textContent = `Abstract: ${publication.bib.abstract || 'N/A'}`;
+
+                    div.appendChild(title);
+                    div.appendChild(authors);
+                    div.appendChild(year);
+                    div.appendChild(venue);
+                    div.appendChild(abstract);
+
+                    container.appendChild(div);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading publications:', error);
+                const container = document.getElementById('publications');
+                container.innerHTML = '<p>Error loading publications. Please try again later.</p>';
             });
-        }
-
-        // Filter publications by search text and year
-        function filterPublications() {
-            const searchQuery = document.getElementById('search').value.toLowerCase();
-            const yearFilter = document.getElementById('year-filter').value;
-            
-            filteredPublications = publications.filter(pub => {
-                const matchesSearch = pub.title.toLowerCase().includes(searchQuery) || 
-                                      pub.authors.toLowerCase().includes(searchQuery);
-                const matchesYear = yearFilter ? pub.year == yearFilter : true;
-                return matchesSearch && matchesYear;
-            });
-            
-            renderPublications();
-        }
-
-        // Sort publications
-        function sortPublications() {
-            const sortBy = document.getElementById('sort').value;
-
-            filteredPublications.sort((a, b) => {
-                if (sortBy === 'title') {
-                    return a.title.localeCompare(b.title);
-                } else if (sortBy === 'year') {
-                    return b.year - a.year; // Sort descending by year
-                } else if (sortBy === 'authors') {
-                    return a.authors.localeCompare(b.authors);
-                }
-            });
-
-            renderPublications();
-        }
-
-        // Initialize the page
-        fetchPublications();
     </script>
 </body>
 </html>
