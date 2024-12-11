@@ -3,2214 +3,1114 @@
         "container_type": "Publication",
         "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "Maximum Power Operation Of A Supercritical Carbon Dioxide Simple Recuperated Brayton Power Block",
-            "author": "Gupta, Shrey Sahai and Kumar, Pramod",
-            "pub_year": "2024",
-            "venue": "Proceedings of the 27th National and 5th \u2026",
-            "abstract": "Supercritical Carbon Dioxide (sCO 2) is gaining attention as a promising option for efficient and low-carbon-footprint power generation. These compact systems are particularly wellsuited for arid regions due to the feasibility of dry-cooled operation. This study investigates the design of sCO 2 Brayton cycles for peak-power generation applications, focusing on a 5 megawatt (MW) simple recuperated plant with fixed heat exchanger conductance. The maximum power capacity of the plant was analyzed by varying",
-            "organization": "Begel House Inc.",
-            "booktitle": "Proceedings of the 27th National and 5th International ISHMT-ASTFE Heat and Mass Transfer Conference December 14-17, 2023, IIT Patna, Patna-801106, Bihar, India",
-            "pub_type": "inproceedings",
-            "bib_id": "gupta2024maximum"
+            "title": "Supercritical carbon dioxide Brayton cycle for concentrated solar power",
+            "author": "Garg, Pardeep and Kumar, Pramod and Srinivasan, Kandadai",
+            "pub_year": "2013",
+            "venue": "The Journal of Supercritical Fluids",
+            "abstract": "Supercritical carbon dioxide based Brayton cycle for possible concentrated solar power applications is investigated and compared with trans-and sub-critical operations of the same fluid. Thermal efficiency, specific work output and magnitude of irreversibility generation are used as some of the performance indicators. While the thermal efficiency increases almost linearly with low side pressure in the sub-and trans-critical cycles, it attains a maximum in the supercritical regime at\u223c 85bar after which there are diminishing returns on increasing",
+            "publisher": "Elsevier",
+            "pages": "54--60",
+            "volume": "76",
+            "journal": "The Journal of Supercritical Fluids",
+            "pub_type": "article",
+            "bib_id": "garg2013supercritical"
         },
         "filled": true,
         "gsrank": 1,
-        "pub_url": "https://www.dl.begellhouse.com/references/1654896405e56590,4869f8107409fb40,3812ba592211ea47.html",
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0896844613000363",
         "author_id": [
-            "p0Nb_g0AAAAJ",
-            "OLjqlAIAAAAJ"
+            "9PyletoAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ"
         ],
-        "url_scholarbib": "/scholar?hl=en&q=info:sMXp49fyGLsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
-        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMaximum%2BPower%2BOperation%2BOf%2BA%2BSupercritical%2BCarbon%2BDioxide%2BSimple%2BRecuperated%2BBrayton%2BPower%2BBlock%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sMXp49fyGLsJ&ei=GzVZZ7rUDei96rQP5uD0-QQ&json=",
-        "num_citations": 0,
-        "url_related_articles": "/scholar?q=related:sMXp49fyGLsJ:scholar.google.com/&scioq=Maximum+Power+Operation+Of+A+Supercritical+Carbon+Dioxide+Simple+Recuperated+Brayton+Power+Block&hl=en&as_sdt=0,33",
-        "eprint_url": "https://www.researchgate.net/profile/Shrey-Gupta-4/publication/379838569_Maximum_Power_Operation_Of_A_Supercritical_Carbon_Dioxide_Simple_Recuperated_Brayton_Power_Block/data/661e31b939e7641c0bcaf2bb/Manuscript-File-Paper-No-293.pdf"
+        "url_scholarbib": "/scholar?hl=en&q=info:4aE6OeZouI8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSupercritical%2Bcarbon%2Bdioxide%2BBrayton%2Bcycle%2Bfor%2Bconcentrated%2Bsolar%2Bpower%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4aE6OeZouI8J&ei=RYlZZ7nNI5OW6rQPiNe78A4&json=",
+        "num_citations": 254,
+        "citedby_url": "/scholar?cites=10356142681150366177&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:4aE6OeZouI8J:scholar.google.com/&scioq=Supercritical+carbon+dioxide+Brayton+cycle+for+concentrated+solar+power&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0896844613000363"
     },
     {
         "container_type": "Publication",
         "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "Optimal Part-Load Performance of Supercritical Carbon Dioxide Brayton Cycles During Inventory Control",
-            "author": "Gupta, Shrey Sahai and Kumar, Pramod",
-            "pub_year": "2024",
-            "venue": "\u2026 : Power for Land, Sea, and Air",
-            "abstract": "Supercritical carbon dioxide (sCO2) cycles are gaining attention for their efficiency and low carbon footprint in power plants. This study focuses on optimizing the performance of a 5 MW simple recuperated sCO2 Brayton loop during inventory control, a recommended strategy for maximum part-load efficiencies. Variable speed operation of turbomachines is explored to enhance part-load efficiency across the operating range, contrasting with the baseline case of constant turbine and compressor speeds. The analysis, which is based on",
-            "organization": "American Society of Mechanical Engineers",
-            "pages": "V011T28A027",
-            "volume": "88049",
-            "booktitle": "Turbo Expo: Power for Land, Sea, and Air",
-            "pub_type": "inproceedings",
-            "bib_id": "gupta2024optimal"
+            "title": "Energy efficient thermal management of data centers",
+            "author": "Joshi, Yogendra and Kumar, Pramod",
+            "pub_year": "2012",
+            "venue": "NA",
+            "abstract": "We explore some of the possible transient scenarios in data center thermal management  further in  has provided an introduction to the energy and thermal management of data centers.",
+            "publisher": "Springer Science \\& Business Media",
+            "pub_type": "book",
+            "bib_id": "joshi2012energy"
         },
         "filled": true,
         "gsrank": 1,
-        "pub_url": "https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2024/88049/1204540",
+        "pub_url": "https://books.google.com/books?hl=en&lr=&id=f0FSp3MmqTwC&oi=fnd&pg=PR5&dq=Energy+efficient+thermal+management+of+data+centers&ots=Mq0679XgcE&sig=SPU9jfwK2DjhQIRzQ6eDOJlBbhc",
         "author_id": [
-            "p0Nb_g0AAAAJ",
+            "YIW1IqcAAAAJ",
             "wGXkEP0AAAAJ"
         ],
-        "url_scholarbib": "/scholar?hl=en&q=info:nY-xumuV2x0J:scholar.google.com/&output=cite&scirp=0&hl=en",
-        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimal%2BPart-Load%2BPerformance%2Bof%2BSupercritical%2BCarbon%2BDioxide%2BBrayton%2BCycles%2BDuring%2BInventory%2BControl%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nY-xumuV2x0J&ei=XTZZZ9m1C4CX6rQP3-vumAg&json=",
-        "num_citations": 0,
-        "url_related_articles": "/scholar?q=related:nY-xumuV2x0J:scholar.google.com/&scioq=Optimal+Part-Load+Performance+of+Supercritical+Carbon+Dioxide+Brayton+Cycles+During+Inventory+Control&hl=en&as_sdt=0,33",
-        "eprint_url": "https://asmedigitalcollection.asme.org/GT/proceedings-pdf/GT2024/88049/V011T28A027/7370492/v011t28a027-gt2024-127526.pdf"
+        "url_scholarbib": "/scholar?hl=en&q=info:wuGHESPHOrIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Bthermal%2Bmanagement%2Bof%2Bdata%2Bcenters%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wuGHESPHOrIJ&ei=TYlZZ5-PA8yR6rQP07D8iAY&json=",
+        "num_citations": 210,
+        "citedby_url": "/scholar?cites=12842796240832291266&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:wuGHESPHOrIJ:scholar.google.com/&scioq=Energy+efficient+thermal+management+of+data+centers&hl=en&as_sdt=0,33"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Supercritical carbon dioxide Brayton cycle for concentrated solar power",
-            "pub_year": "2013",
-            "citation": "The Journal of Supercritical Fluids 76, 54-60, 2013"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ns9cj8rnVeAC",
-        "num_citations": 254,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10356142681150366177",
-        "cites_id": [
-            "10356142681150366177"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Evaluation of isopentane, R-245fa and their mixtures as working fluids for organic Rankine cycles",
+            "author": "Garg, Pardeep and Kumar, Pramod and Srinivasan, Kandadai and Dutta, Pradip",
             "pub_year": "2013",
-            "citation": "Applied Thermal Engineering 51 (1-2), 292-300, 2013"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "Low grade thermal energy from sources such as solar, geothermal and industrial waste heat in the temperature range of 380\u2013425 K can be converted to electrical energy with reasonable efficiency using isopentane and R-245fa. While the former is flammable and the latter has considerable global warming potential, their mixture in 0.7/0.3 mole fraction is shown to obviate these disadvantages and yet retain dominant merits of each fluid. A realistic thermodynamic analysis is carried out wherein the possible sources of",
+            "publisher": "Elsevier",
+            "pages": "292--300",
+            "number": "1-2",
+            "volume": "51",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "garg2013evaluation"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:aqlVkmm33-oC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431112005881",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:tskFJgqD_T8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvaluation%2Bof%2Bisopentane,%2BR-245fa%2Band%2Btheir%2Bmixtures%2Bas%2Bworking%2Bfluids%2Bfor%2Borganic%2BRankine%2Bcycles%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tskFJgqD_T8J&ei=UYlZZ9m4OMKM6rQPvoHp6A8&json=",
         "num_citations": 163,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4610985673108081078",
-        "cites_id": [
-            "4610985673108081078"
-        ]
+        "citedby_url": "/scholar?cites=4610985673108081078&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:tskFJgqD_T8J:scholar.google.com/&scioq=Evaluation+of+isopentane,+R-245fa+and+their+mixtures+as+working+fluids+for+organic+Rankine+cycles&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431112005881"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "Technoeconomic Analysis of Alternative Solarized s-CO2 Brayton Cycle Configurations",
+            "title": "Technoeconomic analysis of alternative solarized s-CO2 Brayton cycle configurations",
+            "author": "Ho, Clifford K and Carlson, Matthew and Garg, Pardeep and Kumar, Pramod",
             "pub_year": "2016",
-            "citation": "Journal of Solar Energy Engineering 138 (5), 051008, 2016"
+            "venue": "Journal of Solar \u2026",
+            "abstract": "This paper evaluates cost and performance tradeoffs of alternative supercritical carbon dioxide (s-CO2) closed-loop Brayton cycle configurations with a concentrated solar heat source. Alternative s-CO2 power cycle configurations include simple, recompression, cascaded, and partial cooling cycles. Results show that the simple closed-loop Brayton cycle yielded the lowest power-block component costs while allowing variable temperature differentials across the s-CO2 heating source, depending on the level of recuperation. Lower",
+            "publisher": "American Society of Mechanical Engineers",
+            "pages": "051008",
+            "number": "5",
+            "volume": "138",
+            "journal": "Journal of Solar Energy Engineering",
+            "pub_type": "article",
+            "bib_id": "ho2016technoeconomic"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:hqOjcs7Dif8C",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://asmedigitalcollection.asme.org/solarenergyengineering/article-abstract/138/5/051008/383672",
+        "author_id": [
+            "ohfy998AAAAJ",
+            "",
+            "9PyletoAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:FRTaF-ofEy8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTechnoeconomic%2BAnalysis%2Bof%2BAlternative%2BSolarized%2Bs-CO2%2BBrayton%2BCycle%2BConfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FRTaF-ofEy8J&ei=WIlZZ7aAOIWU6rQPlpvO6Aw&json=",
         "num_citations": 101,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3392090034623091733",
-        "cites_id": [
-            "3392090034623091733"
-        ]
+        "citedby_url": "/scholar?cites=3392090034623091733&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:FRTaF-ofEy8J:scholar.google.com/&scioq=Technoeconomic+Analysis+of+Alternative+Solarized+s-CO2+Brayton+Cycle+Configurations&hl=en&as_sdt=0,33",
+        "eprint_url": "https://asmedigitalcollection.asme.org/solarenergyengineering/article/138/5/051008/383672"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Solar driven adsorption desalination system",
+            "author": "Mitra, S and Srinivasan, K and Kumar, P and Murthy, SS and Dutta, P",
             "pub_year": "2014",
-            "citation": "Energy Procedia 49, 2261-2269, 2014"
+            "venue": "Energy Procedia",
+            "abstract": "distils, which are found to be energy intensive, whereas reverse osmosis based systems   the Adsorption Desalination (AD) system, which is an emerging process of thermal desalination",
+            "publisher": "Elsevier",
+            "pages": "2261--2269",
+            "volume": "49",
+            "journal": "Energy Procedia",
+            "pub_type": "article",
+            "bib_id": "mitra2014solar"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:Y0pCki6q_DkC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1876610214006936",
+        "author_id": [
+            "ea7ot_cAAAAJ",
+            "1fQLNl8AAAAJ",
+            "wGXkEP0AAAAJ",
+            "abU4EjAAAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:lNziqb2u4BQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSolar%2Bdriven%2Badsorption%2Bdesalination%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lNziqb2u4BQJ&ei=YIlZZ7LzJICX6rQP3-vumAg&json=",
         "num_citations": 93,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1504394405164014740",
-        "cites_id": [
-            "1504394405164014740"
-        ]
+        "citedby_url": "/scholar?cites=1504394405164014740&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:lNziqb2u4BQJ:scholar.google.com/&scioq=Solar+driven+adsorption+desalination+system&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1876610214006936/pdf?md5=e7226feb0c5f4fa34c42933c865f0b36&pid=1-s2.0-S1876610214006936-main.pdf&_valck=1"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Performance evaluation of a two-stage silica gel+ water adsorption based cooling-cum-desalination system",
+            "author": "Mitra, Sourav and Kumar, Pramod and Srinivasan, Kandadai and Dutta, Pradip",
+            "pub_year": "2015",
+            "venue": "international journal of \u2026",
+            "abstract": "The first objective of this paper is to show that a single-stage adsorption based cooling-cum-desalination system cannot be used if air cooled heat rejection is used under tropical conditions. This objective is achieved by operating a silica gel+ water adsorption chiller first in a single-stage mode and then in a 2-stage mode with 2 beds/stage in each case. The second objective is to improve upon the simulation results obtained earlier by way of empirically describing the thermal wave phenomena during switching of operation of beds",
+            "publisher": "Elsevier",
+            "pages": "186--198",
+            "volume": "58",
+            "journal": "international journal of refrigeration",
+            "pub_type": "article",
+            "bib_id": "mitra2015performance"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0140700715001863",
+        "author_id": [
+            "ea7ot_cAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:gq-nQhZVjaQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2Bevaluation%2Bof%2Ba%2Btwo-stage%2Bsilica%2Bgel%252B%2Bwater%2Badsorption%2Bbased%2Bcooling-cum-desalination%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gq-nQhZVjaQJ&ei=Z4lZZ_2tMriC6rQPvfy4wQ8&json=",
+        "num_citations": 91,
+        "citedby_url": "/scholar?cites=11857226948032311170&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:gq-nQhZVjaQJ:scholar.google.com/&scioq=Performance+evaluation+of+a+two-stage+silica+gel%2B+water+adsorption+based+cooling-cum-desalination+system&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0140700715001863"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Evaluation of carbon dioxide blends with isopentane and propane as working fluids for organic Rankine cycles",
+            "author": "Garg, Pardeep and Kumar, Pramod and Srinivasan, Kandadai and Dutta, Pradip",
             "pub_year": "2013",
-            "citation": "Applied Thermal Engineering 52 (2), 439-448, 2013"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "The main theme of this paper is to study the flammability suppression of hydrocarbons by blending with carbon dioxide, and to evaluate these mixtures as possible working fluids in organic Rankine cycle for medium temperature concentrated solar power applications. The analysis takes into account inevitable irreversibilities in the turbine, the pump, and heat exchangers. While the isopentane+ CO2 mixture suffers from high irreversibility mainly in the regenerator owing to a large temperature glide, the propane+ CO2 mixture performs more or",
+            "publisher": "Elsevier",
+            "pages": "439--448",
+            "number": "2",
+            "volume": "52",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "garg2013evaluation"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ZeXyd9-uunAC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431112007843",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:vCJSiRpEyUwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvaluation%2Bof%2Bcarbon%2Bdioxide%2Bblends%2Bwith%2Bisopentane%2Band%2Bpropane%2Bas%2Bworking%2Bfluids%2Bfor%2Borganic%2BRankine%2Bcycles%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vCJSiRpEyUwJ&ei=bYlZZ9roGvuh6rQPpoL00AI&json=",
         "num_citations": 84,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5533028497965064892",
-        "cites_id": [
-            "5533028497965064892"
-        ]
+        "citedby_url": "/scholar?cites=5533028497965064892&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:vCJSiRpEyUwJ:scholar.google.com/&scioq=Evaluation+of+carbon+dioxide+blends+with+isopentane+and+propane+as+working+fluids+for+organic+Rankine+cycles&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431112007843"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Studies on transport phenomena during solidification of an aluminum alloy in the presence of linear electromagnetic stirring",
+            "author": "Barman, N and Kumar, P and Dutta, Pradip",
+            "pub_year": "2009",
+            "venue": "Journal of Materials Processing Technology",
+            "abstract": "Numerical and experimental studies on transport phenomena during solidification of an aluminum alloy in the presence of linear electromagnetic stirring are performed. The alloy is electromagnetically stirred to produce semisolid slurry in a cylindrical graphite mould placed in the annulus of a linear electromagnetic stirrer. The mould is cooled at the bottom, such that solidification progresses from the bottom to the top of the cylindrical mould. A numerical model is developed for simulating the transport phenomena associated with the",
+            "publisher": "Elsevier",
+            "pages": "5912--5923",
+            "number": "18-19",
+            "volume": "209",
+            "journal": "Journal of Materials Processing Technology",
+            "pub_type": "article",
+            "bib_id": "barman2009studies"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924013609002647",
+        "author_id": [
+            "ianvCwoAAAAJ",
+            "WBA-kD0AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:9CGcjjYwnmMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudies%2Bon%2Btransport%2Bphenomena%2Bduring%2Bsolidification%2Bof%2Ban%2Baluminum%2Balloy%2Bin%2Bthe%2Bpresence%2Bof%2Blinear%2Belectromagnetic%2Bstirring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9CGcjjYwnmMJ&ei=dIlZZ8rYMPaT6rQPht_eqAk&json=",
+        "num_citations": 66,
+        "citedby_url": "/scholar?cites=7178227866954113524&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:9CGcjjYwnmMJ:scholar.google.com/&scioq=Studies+on+transport+phenomena+during+solidification+of+an+aluminum+alloy+in+the+presence+of+linear+electromagnetic+stirring&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0924013609002647"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Thermo-economic evaluation of ORCs for various working fluids",
+            "author": "Garg, Pardeep and Orosz, Matthew S and Kumar, Pramod",
             "pub_year": "2016",
-            "citation": "Applied Thermal Engineering 109, 841-853, 2016"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "An inclusive component-level technical and economic assessment procedure for the general design and operating strategy of Organic Rankine Cycles (ORC) for use across major application categories (waste heat recovery, solar thermal, geothermal) and sub-MW scales can be an important tool for leveraging the cost-effective deployment of low and medium temperature power cycles. Previous analyses and design approaches tended to focus on thermodynamic efficiency rather than financial performance. To bridge this gap, a",
+            "publisher": "Elsevier",
+            "pages": "841--853",
+            "volume": "109",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "garg2016thermo"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:738O_yMBCRsC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309978",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "R_L0U1QAAAAJ",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:fCDQS5Lq-u4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThermo-economic%2Bevaluation%2Bof%2BORCs%2Bfor%2Bvarious%2Bworking%2Bfluids%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fCDQS5Lq-u4J&ei=fIlZZ7KFHui96rQP5uD0-QQ&json=",
         "num_citations": 65,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17220334039262568572",
-        "cites_id": [
-            "17220334039262568572"
-        ]
+        "citedby_url": "/scholar?cites=17220334039262568572&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:fCDQS5Lq-u4J:scholar.google.com/&scioq=Thermo-economic+evaluation+of+ORCs+for+various+working+fluids&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309978"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Comparison of CO2 and steam in transcritical Rankine cycles for concentrated solar power",
+            "author": "Garg, P and Srinivasan, K and Dutta, P and Kumar, P",
             "pub_year": "2014",
-            "citation": "Energy procedia 49, 1138-1146, 2014"
+            "venue": "Energy procedia",
+            "abstract": "High temperature, high pressure transcritical condensing CO2 cycle (TC-CO2) is compared with transcritical steam (TC-steam) cycle. Performance indicators such as thermal efficiency, volumetric flow rates and entropy generation are used to analyze the power cycle wherein, irreversibilities in turbo-machinery and heat exchangers are taken into account. Although, both cycles yield comparable thermal efficiencies under identical operating conditions, TC-CO2 plant is significantly compact compared to a TC-steam plant. Large specific volume of",
+            "publisher": "Elsevier",
+            "pages": "1138--1146",
+            "volume": "49",
+            "journal": "Energy procedia",
+            "pub_type": "article",
+            "bib_id": "garg2014comparison"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:TQgYirikUcIC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1876610214005773",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ljBeJox7pVcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComparison%2Bof%2BCO2%2Band%2Bsteam%2Bin%2Btranscritical%2BRankine%2Bcycles%2Bfor%2Bconcentrated%2Bsolar%2Bpower%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ljBeJox7pVcJ&ei=golZZ8GoC5OW6rQPiNe78A4&json=",
         "num_citations": 63,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6315589894326333590",
-        "cites_id": [
-            "6315589894326333590"
-        ]
+        "citedby_url": "/scholar?cites=6315589894326333590&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:ljBeJox7pVcJ:scholar.google.com/&scioq=Comparison+of+CO2+and+steam+in+transcritical+Rankine+cycles+for+concentrated+solar+power&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1876610214005773/pdf?md5=6d3c0d88b3b6cbb9a3ef01040bff4e76&pid=1-s2.0-S1876610214005773-main.pdf&_valck=1"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Rack level modeling of air flow through perforated tile in a data center",
+            "author": "Arghode, Vaibhav K and Kumar, Pramod and Joshi, Yogendra and Weiss, Thomas and Meyer, Gary",
             "pub_year": "2013",
-            "citation": "Journal of Electronic Packaging 135 (3), 030902, 2013"
+            "venue": "Journal of \u2026",
+            "abstract": "Effective air flow distribution through perforated tiles is required to efficiently cool servers in a raised floor data center. We present detailed computational fluid dynamics (CFD) modeling of air flow through a perforated tile and its entrance to the adjacent server rack. The realistic geometrical details of the perforated tile, as well as of the rack are included in the model. Generally, models for air flow through perforated tiles specify a step pressure loss across the tile surface, or porous jump model based on the tile porosity. An improvement to this",
+            "publisher": "American Society of Mechanical Engineers",
+            "pages": "030902",
+            "number": "3",
+            "volume": "135",
+            "journal": "Journal of Electronic Packaging",
+            "pub_type": "article",
+            "bib_id": "arghode2013rack"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:NaGl4SEjCO4C",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://asmedigitalcollection.asme.org/electronicpackaging/article-abstract/135/3/030902/372632",
+        "author_id": [
+            "Rsgsi4EAAAAJ",
+            "wGXkEP0AAAAJ",
+            "YIW1IqcAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:7hc1kqTvz5AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRack%2Blevel%2Bmodeling%2Bof%2Bair%2Bflow%2Bthrough%2Bperforated%2Btile%2Bin%2Ba%2Bdata%2Bcenter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7hc1kqTvz5AJ&ei=i4lZZ9vSCei96rQP5uD0-QQ&json=",
         "num_citations": 63,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10434822351747356654",
-        "cites_id": [
-            "10434822351747356654"
-        ]
+        "citedby_url": "/scholar?cites=10434822351747356654&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:7hc1kqTvz5AJ:scholar.google.com/&scioq=Rack+level+modeling+of+air+flow+through+perforated+tile+in+a+data+center&hl=en&as_sdt=0,33",
+        "eprint_url": "https://asmedigitalcollection.asme.org/electronicpackaging/article/135/3/030902/372632"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "Cost and Performance Tradeoffs of Alternative Solar-Driven S-CO2 Brayton Cycle Configurations",
-            "pub_year": "2015",
-            "citation": "Energy sustainability 56840, V001T05A016, 2015"
+            "title": "Carbon dioxide based power generation in renewable energy systems",
+            "author": "Kumar, Pramod and Srinivasan, Kandadai",
+            "pub_year": "2016",
+            "venue": "Applied Thermal Engineering",
+            "abstract": "After a substantial impact on refrigeration, carbon dioxide (CO 2) is gaining considerable attention as a working fluid for thermal power generation. This can be attributed mainly to its excellent heat transfer properties and compactness of components arising from its high density. It has the merit of being amenable to operation in sub-, trans-or super-critical Brayton cycle modes. However, inhibiting factors are high pressures needed when operated in trans-or supercritical cycles and the work of compression eroding most of the work of",
+            "publisher": "Elsevier",
+            "pages": "831--840",
+            "volume": "109",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "kumar2016carbon"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:4JMBOYKVnBMC",
-        "num_citations": 50,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7238260416719711437",
-        "cites_id": [
-            "7238260416719711437"
-        ]
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309966",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:_kA4Rk559b8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCarbon%2Bdioxide%2Bbased%2Bpower%2Bgeneration%2Bin%2Brenewable%2Benergy%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_kA4Rk559b8J&ei=kolZZ-WDG_uh6rQPpoL00AI&json=",
+        "num_citations": 60,
+        "citedby_url": "/scholar?cites=13832095207630848254&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:_kA4Rk559b8J:scholar.google.com/&scioq=Carbon+dioxide+based+power+generation+in+renewable+energy+systems&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309966"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Development and performance studies of an air cooled two-stage multi-bed silica-gel+ water adsorption system",
+            "author": "Mitra, Sourav and Kumar, Pramod and Srinivasan, Kandadai and Dutta, Pradip",
+            "pub_year": "2016",
+            "venue": "international journal of \u2026",
+            "abstract": "A two-stage 4-bed/stage silica-gel+ water adsorption system is developed for combined cooling and desalination, which adopts air cooled heat rejection obviating the disadvantages of cooling towers. Each stage has four adsorbers: three beds with identical design and one bed having a marginally different design. The present paper describes the design features and constructional details of the various components of this system. The results presented herein focus only on the performance of the identical beds. The start-up",
+            "publisher": "Elsevier",
+            "pages": "174--189",
+            "volume": "67",
+            "journal": "international journal of refrigeration",
+            "pub_type": "article",
+            "bib_id": "mitra2016development"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0140700715003230",
+        "author_id": [
+            "ea7ot_cAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:dF7HsWBeoE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDevelopment%2Band%2Bperformance%2Bstudies%2Bof%2Ban%2Bair%2Bcooled%2Btwo-stage%2Bmulti-bed%2Bsilica-gel%252B%2Bwater%2Badsorption%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dF7HsWBeoE8J&ei=molZZ40RzJHqtA_TsPyIBg&json=",
+        "num_citations": 56,
+        "citedby_url": "/scholar?cites=5737689694662516340&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:dF7HsWBeoE8J:scholar.google.com/&scioq=Development+and+performance+studies+of+an+air+cooled+two-stage+multi-bed+silica-gel%2B+water+adsorption+system&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0140700715003230"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Cost and performance tradeoffs of alternative solar-driven S-CO2 Brayton cycle configurations",
+            "author": "Ho, Clifford K and Carlson, Matthew and Garg, Pardeep and Kumar, Pramod",
+            "pub_year": "2015",
+            "venue": "Energy \u2026",
+            "abstract": "This paper evaluates cost and performance tradeoffs of alternative supercritical carbon dioxide (s-CO2) closed-loop Brayton cycle configurations with a concentrated solar heat source. Alternative s-CO2 power cycle configurations include simple, recompression, cascaded, and partial cooling cycles. Results show that the simple closed-loop Brayton cycle yielded the lowest power-block component costs while allowing variable temperature differentials across the s-CO2 heating source, depending on the level of recuperation. Lower",
+            "organization": "American Society of Mechanical Engineers",
+            "pages": "V001T05A016",
+            "volume": "56840",
+            "booktitle": "Energy sustainability",
+            "pub_type": "inproceedings",
+            "bib_id": "ho2015cost"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2015/V001T05A016/228239",
+        "author_id": [
+            "ohfy998AAAAJ",
+            "",
+            "9PyletoAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:zWxZwn93c2QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCost%2Band%2BPerformance%2BTradeoffs%2Bof%2BAlternative%2BSolar-Driven%2BS-CO2%2BBrayton%2BCycle%2BConfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zWxZwn93c2QJ&ei=oYlZZ8-nDfaT6rQPht_eqAk&json=",
+        "num_citations": 49,
+        "citedby_url": "/scholar?cites=7238260416719711437&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:zWxZwn93c2QJ:scholar.google.com/&scioq=Cost+and+Performance+Tradeoffs+of+Alternative+Solar-Driven+S-CO2+Brayton+Cycle+Configurations&hl=en&as_sdt=0,33",
+        "eprint_url": "https://asmedigitalcollection.asme.org/ES/proceedings-pdf/ES2015/56840/V001T05A016/4448498/v001t05a016-es2015-49467.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Simulation study of a two-stage adsorber system",
+            "author": "Mitra, Sourav and Kumar, Pramod and Srinivasan, Kandadai and Dutta, Pradip",
             "pub_year": "2014",
-            "citation": "Applied thermal engineering 72 (2), 283-288, 2014"
+            "venue": "Applied thermal engineering",
+            "abstract": "The present study simulates a two-stage silica gel+ water adsorption desalination (AD) and chiller system. The adsorber system thermally compresses the low pressure steam generated in the evaporator to the condenser pressure in two stages. Unlike a standalone adsorption chiller unit which operates in a closed cycle the present system is an open cycle wherein the condensed desalinated water is not fed back to the evaporator. The mathematical relations formulated in the current study are based on conservation of mass",
+            "publisher": "Elsevier",
+            "pages": "283--288",
+            "number": "2",
+            "volume": "72",
+            "journal": "Applied thermal engineering",
+            "pub_type": "article",
+            "bib_id": "mitra2014simulation"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:zA6iFVUQeVQC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431114002877",
+        "author_id": [
+            "ea7ot_cAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:BixFjbTm8a8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimulation%2Bstudy%2Bof%2Ba%2Btwo-stage%2Badsorber%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BixFjbTm8a8J&ei=polZZ9HpGsKM6rQPvoHp6A8&json=",
         "num_citations": 47,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12678168089163279366",
-        "cites_id": [
-            "12678168089163279366"
-        ]
+        "citedby_url": "/scholar?cites=12678168089163279366&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:BixFjbTm8a8J:scholar.google.com/&scioq=Simulation+study+of+a+two-stage+adsorber+system&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431114002877"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Development of a generic tool to design scroll expanders for ORC applications",
+            "author": "Garg, Pardeep and Karthik, GM and Kumar, Prashant and Kumar, Pramod",
             "pub_year": "2016",
-            "citation": "Applied Thermal Engineering 109, 878-888, 2016"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "Successful experimental studies on the scrolls that are reverse engineered to operate in the expansion mode recommend their use in the ORCs over conventional turbines when the power capacities lie in the range of 1\u201350 kWe. However, when it comes to the design of a new scroll expander for a particular ORC requirement, an ORC engineer hardly finds any guidelines in terms of selecting the geometric features of scroll such as height, involute base circle radius, and number of expansion chambers. This paper is motivated by such a",
+            "publisher": "Elsevier",
+            "pages": "878--888",
+            "volume": "109",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "garg2016development"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:p2g8aNsByqUC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309541",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "",
+            "",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:9Ug8EQ5NqOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDevelopment%2Bof%2Ba%2Bgeneric%2Btool%2Bto%2Bdesign%2Bscroll%2Bexpanders%2Bfor%2BORC%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9Ug8EQ5NqOMJ&ei=rIlZZ-2uAui96rQP5uD0-QQ&json=",
         "num_citations": 43,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16404446365511076085",
-        "cites_id": [
-            "16404446365511076085"
-        ]
+        "citedby_url": "/scholar?cites=16404446365511076085&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:9Ug8EQ5NqOMJ:scholar.google.com/&scioq=Development+of+a+generic+tool+to+design+scroll+expanders+for+ORC+applications&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431116309541"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Experimental investigations on the effect of perforated tile air jet velocity on server air distribution in a high density data center",
+            "author": "Kumar, Pramod and Joshi, Yogendra",
+            "pub_year": "2010",
+            "venue": "2010 12th IEEE Intersociety Conference on \u2026",
+            "abstract": "High density racks are becoming increasingly common in modern datacenters. The cold air distribution to high density racks has been a major challenge in the data center thermal design. Generally, the cold air is supplied through perforated tiles placed in front of the racks. Previous literature has focused more on large scale air distribution with in the data center rather than detailed air distribution to individual servers placed in the rack. This paper investigates the effect of tile air flow rate on the server air distribution at various locations in",
+            "organization": "IEEE",
+            "pages": "1--7",
+            "booktitle": "2010 12th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems",
+            "pub_type": "inproceedings",
+            "bib_id": "kumar2010experimental"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/5501337/",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "YIW1IqcAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:akN_sSaxyg4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperimental%2Binvestigations%2Bon%2Bthe%2Beffect%2Bof%2Bperforated%2Btile%2Bair%2Bjet%2Bvelocity%2Bon%2Bserver%2Bair%2Bdistribution%2Bin%2Ba%2Bhigh%2Bdensity%2Bdata%2Bcenter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=akN_sSaxyg4J&ei=solZZ6XwBbiC6rQPvfy4wQ8&json=",
+        "num_citations": 43,
+        "citedby_url": "/scholar?cites=1065859041571324778&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:akN_sSaxyg4J:scholar.google.com/&scioq=Experimental+investigations+on+the+effect+of+perforated+tile+air+jet+velocity+on+server+air+distribution+in+a+high+density+data+center&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Spatially-aware optimization of energy consumption in consolidated data center systems",
+            "author": "Chen, Hui and Kesavan, Mukil and Schwan, Karsten and Gavrilovska, Ada and Kumar, Pramod and Joshi, Yogendra",
+            "pub_year": "2011",
+            "venue": "International \u2026",
+            "abstract": "Energy efficiency in data center operation depends on many factors, including power distribution, thermal load and consequent cooling costs, and IT management in terms of how and where IT load is placed and moved under changing request loads. Current methods provided by vendors consolidate IT loads onto the smallest number of machines needed to meet application requirements. This paper's goal is to gain further improvements in energy efficiency by also making such methods 'spatially aware', so that load is placed onto",
+            "pages": "461--470",
+            "volume": "44625",
+            "booktitle": "International Electronic Packaging Technical Conference and Exhibition",
+            "pub_type": "inproceedings",
+            "bib_id": "chen2011spatially"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://asmedigitalcollection.asme.org/InterPACK/proceedings-abstract/InterPACK2011/461/351187",
+        "author_id": [
+            "N9vE1YMAAAAJ",
+            "lSvCJ-oAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:gC_MrTfnHTcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpatially-aware%2Boptimization%2Bof%2Benergy%2Bconsumption%2Bin%2Bconsolidated%2Bdata%2Bcenter%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gC_MrTfnHTcJ&ei=u4lZZ5jwFYCX6rQP3-vumAg&json=",
+        "num_citations": 40,
+        "citedby_url": "/scholar?cites=3971584672735702912&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:gC_MrTfnHTcJ:scholar.google.com/&scioq=Spatially-aware+optimization+of+energy+consumption+in+consolidated+data+center+systems&hl=en&as_sdt=0,33",
+        "eprint_url": "https://faculty.cc.gatech.edu/~ada/papers/interpack11.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Experiments on a novel metal hydride cartridge for hydrogen storage and low temperature thermal storage",
+            "author": "Malleswararao, K and Aswin, N and Kumar, Pramod and Dutta, Pradip and Murthy, S Srinivasa",
+            "pub_year": "2022",
+            "venue": "International Journal of \u2026",
+            "abstract": "Even though metal hydrides have been mainly studied for hydrogen storage, their applications can be extended to thermal energy storage by utilizing the exothermic and endothermic reactions during the hydride formation and decomposition processes, respectively. In this paper, a low temperature hydride, La 0.75 Ce 0.25 Ni 5 is experimentally investigated for hydrogen storage and thermal energy storage applications. Heat and mass transfer characteristics of a novel scalable cartridge type reactor is studied at various heat",
+            "publisher": "Elsevier",
+            "pages": "16144--16155",
+            "number": "36",
+            "volume": "47",
+            "journal": "International Journal of Hydrogen Energy",
+            "pub_type": "article",
+            "bib_id": "malleswararao2022experiments"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0360319922011570",
+        "author_id": [
+            "YY3tPLgAAAAJ",
+            "",
+            "wGXkEP0AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:FzA1dqGL-X8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperiments%2Bon%2Ba%2Bnovel%2Bmetal%2Bhydride%2Bcartridge%2Bfor%2Bhydrogen%2Bstorage%2Band%2Blow%2Btemperature%2Bthermal%2Bstorage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FzA1dqGL-X8J&ei=wYlZZ7zuMfuh6rQPpoL00AI&json=",
+        "num_citations": 39,
+        "citedby_url": "/scholar?cites=9221555237606993943&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:FzA1dqGL-X8J:scholar.google.com/&scioq=Experiments+on+a+novel+metal+hydride+cartridge+for+hydrogen+storage+and+low+temperature+thermal+storage&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0360319922011570"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Thermo-hydraulic analysis of compact heat exchanger for a simple recuperated sCO2 Brayton cycle",
+            "author": "Pandey, V and Kumar, P and Dutta, P",
             "pub_year": "2020",
-            "citation": "Renewable and Sustainable Energy Reviews 134, 110091, 2020"
+            "venue": "Renewable and Sustainable Energy \u2026",
+            "abstract": "Supercritical carbon dioxide (sCO 2) Brayton cycle-based power plants are being extensively explored as viable alternatives to traditional Rankine based steam power plants. Higher temperatures at the turbine exit in a sCO 2 cycle provide better opportunities for heat recuperation, thus improving overall cycle efficiency. Among the various heat exchanger configurations available, compact microchannel heat exchangers commonly known as Printed Circuit Heat Exchangers (PCHE's) are typically used in sCO 2 power plants. In the",
+            "publisher": "Elsevier",
+            "pages": "110091",
+            "volume": "134",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "pub_type": "article",
+            "bib_id": "pandey2020thermo"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:_axFR9aDTf0C",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1364032120303828",
+        "author_id": [
+            "BknpyzIAAAAJ",
+            "qqHVd50AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:siMHxk3uFwgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThermo-hydraulic%2Banalysis%2Bof%2Bcompact%2Bheat%2Bexchanger%2Bfor%2Ba%2Bsimple%2Brecuperated%2BsCO2%2BBrayton%2Bcycle%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=siMHxk3uFwgJ&ei=yolZZ67xLei96rQP5uD0-QQ&json=",
         "num_citations": 38,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=583196694570017714",
-        "cites_id": [
-            "583196694570017714"
-        ]
+        "citedby_url": "/scholar?cites=583196694570017714&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:siMHxk3uFwgJ:scholar.google.com/&scioq=Thermo-hydraulic+analysis+of+compact+heat+exchanger+for+a+simple+recuperated+sCO2+Brayton+cycle&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1364032120303828"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Studies on turbulent momentum, heat and species transport during binary alloy solidification in a top-cooled rectangular cavity",
+            "author": "Chakraborty, S and Chakraborty, N and Kumar, P and Dutta, P",
+            "pub_year": "2003",
+            "venue": "International journal of \u2026",
+            "abstract": "A two-dimensional transient fixed-grid enthalpy-based numerical method is developed to analyze the effects of turbulent transport during a binary alloy solidification process. Turbulence effects are introduced through standard k\u2013\u03b5 equations, where coefficients are appropriately modified to account for phase-change. Microscopically-consistent estimates are made regarding temperature-solute coupling in a non-equilibrium solidification situation. The model is tested against laboratory experiments performed using an NH4Cl\u2013H2O system",
+            "publisher": "Elsevier",
+            "pages": "1115--1137",
+            "number": "7",
+            "volume": "46",
+            "journal": "International journal of heat and mass transfer",
+            "pub_type": "article",
+            "bib_id": "chakraborty2003studies"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0017931002004027",
+        "author_id": [
+            "2RQrq70AAAAJ",
+            "vsulrwsAAAAJ",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kSnplUtMwykJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudies%2Bon%2Bturbulent%2Bmomentum,%2Bheat%2Band%2Bspecies%2Btransport%2Bduring%2Bbinary%2Balloy%2Bsolidification%2Bin%2Ba%2Btop-cooled%2Brectangular%2Bcavity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kSnplUtMwykJ&ei=04lZZ929IMKM6rQPvoHp6A8&json=",
+        "num_citations": 34,
+        "citedby_url": "/scholar?cites=3009332863534967185&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:kSnplUtMwykJ:scholar.google.com/&scioq=Studies+on+turbulent+momentum,+heat+and+species+transport+during+binary+alloy+solidification+in+a+top-cooled+rectangular+cavity&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0017931002004027"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Effect of server load variation on rack air flow distribution in a raised floor data center",
+            "author": "Kumar, Pramod and Sundaralingam, Vikneshan and Joshi, Yogendra",
+            "pub_year": "2011",
+            "venue": "2011 27th Annual IEEE \u2026",
+            "abstract": "This paper presents experimental studies on server level rack air distribution for a preset perforated tile air flow rate. A series of experiments are performed using a 22.8 kW server simulator placed in a raised floor data center facility. The rack air flow rate is varied by adjusting the fan speed of the server simulator. Particle Image Velocimetry (PIV) technique is used to capture the air flow pattern at various locations in the cold aisle at the inlet of the server simulator. The PIV images are recorded at various locations and later combined to",
+            "organization": "IEEE",
+            "pages": "90--96",
+            "booktitle": "2011 27th Annual IEEE Semiconductor Thermal Measurement and Management Symposium",
+            "pub_type": "inproceedings",
+            "bib_id": "kumar2011effect"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/5767184/",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:dSK502zoDX0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Bserver%2Bload%2Bvariation%2Bon%2Brack%2Bair%2Bflow%2Bdistribution%2Bin%2Ba%2Braised%2Bfloor%2Bdata%2Bcenter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dSK502zoDX0J&ei=2YlZZ9bYGui96rQP5uD0-QQ&json=",
+        "num_citations": 32,
+        "citedby_url": "/scholar?cites=9011113983544468085&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:dSK502zoDX0J:scholar.google.com/&scioq=Effect+of+server+load+variation+on+rack+air+flow+distribution+in+a+raised+floor+data+center&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Solar driven carbon dioxide Brayton cycle power generation with thermal compression",
+            "author": "Kumar, Pramod and Dutta, Pradip and Murthy, Srikantiah Srinivasa and Srinivasan, Kandadai",
             "pub_year": "2016",
-            "citation": "Applied Thermal Engineering 109, 854-860, 2016"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "Solar thermal power generation by and large uses Rankine cycles with organic working fluids or steam when highly concentrated solar source is used. Brayton cycle is seldom used because the work of compression forms a major fraction of turbine output. We investigate removal of this lacuna by adopting thermal compression using the adsorption route. Here we propose a two source operated cycle with the low temperature source used for thermal compression and the high temperature source to increase the inlet temperature of the",
+            "publisher": "Elsevier",
+            "pages": "854--860",
+            "volume": "109",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "kumar2016solar"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:SP6oXDckpogC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431116310262",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "9Kc9XlkAAAAJ",
+            "abU4EjAAAAAJ",
+            "1fQLNl8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:_ZUc1DVSA90J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSolar%2Bdriven%2Bcarbon%2Bdioxide%2BBrayton%2Bcycle%2Bpower%2Bgeneration%2Bwith%2Bthermal%2Bcompression%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_ZUc1DVSA90J&ei=44lZZ4r8Cvuh6rQPpoL00AI&json=",
         "num_citations": 31,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15925663098457593341",
-        "cites_id": [
-            "15925663098457593341"
-        ]
+        "citedby_url": "/scholar?cites=15925663098457593341&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:_ZUc1DVSA90J:scholar.google.com/&scioq=Solar+driven+carbon+dioxide+Brayton+cycle+power+generation+with+thermal+compression&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431116310262"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Experimental investigations on mixing characteristics in the critical regime of a low-area ratio supersonic ejector",
+            "author": "Gupta, Pradeep and Rao, Srisha and Kumar, Pramod",
             "pub_year": "2019",
-            "citation": "Physics of Fluids 31 (2), 2019"
+            "venue": "Physics of Fluids",
+            "abstract": "Ejectors have many applications in aerospace and energy conversion technologies. An ejector is a passive device that pumps a secondary fluid by energy augmentation from a primary fluid. The performance of the ejector is primarily dependent on the complex gas dynamic interactions between the primary and secondary flows in a variable area duct. The maximum mass flow rate of the ejector in the critical flow regime is limited by choking of both the primary and secondary flows. This paper focuses on experimental investigations on the",
+            "publisher": "AIP Publishing",
+            "number": "2",
+            "volume": "31",
+            "journal": "Physics of Fluids",
+            "pub_type": "article",
+            "bib_id": "gupta2019experimental"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:-jrNzM816MMC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://pubs.aip.org/aip/pof/article/31/2/026101/1062503",
+        "author_id": [
+            "iRe_oUMAAAAJ",
+            "eURBmWYAAAAJ",
+            "YErJOV8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:AsKDPzdPe1kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperimental%2Binvestigations%2Bon%2Bmixing%2Bcharacteristics%2Bin%2Bthe%2Bcritical%2Bregime%2Bof%2Ba%2Blow-area%2Bratio%2Bsupersonic%2Bejector%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AsKDPzdPe1kJ&ei=64lZZ7DGJriC6rQPvfy4wQ8&json=",
         "num_citations": 30,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6447834390218392066",
-        "cites_id": [
-            "6447834390218392066"
-        ]
+        "citedby_url": "/scholar?cites=6447834390218392066&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:AsKDPzdPe1kJ:scholar.google.com/&scioq=Experimental+investigations+on+mixing+characteristics+in+the+critical+regime+of+a+low-area+ratio+supersonic+ejector&hl=en&as_sdt=0,33",
+        "eprint_url": "https://pubs.aip.org/aip/pof/article/31/2/026101/1062503"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Analysis of a hybrid transcritical CO2 vapor compression and vapor ejector refrigeration system",
+            "author": "Kumar, Kundan and Gupta, Hitesh Kumar and Kumar, Pramod",
             "pub_year": "2020",
-            "citation": "Applied Thermal Engineering 181, 115945, 2020"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "The paper presents analysis of a hybrid transcritical CO 2 (T-CO 2) refrigeration cycle coupled with a heat-driven vapor ejector refrigeration cycle. The heat generated by compression of CO 2 in the transcritical vapor compression refrigeration system (VCRS) is utilized to drive the secondary vapor ejector refrigeration system (VERS). The performance of the hybrid system is evaluated by maintaining identical evaporator temperatures for both T-CO 2 VCRS and VERS. Cooling capacity and COP of the VERS is influenced by heat",
+            "publisher": "Elsevier",
+            "pages": "115945",
+            "volume": "181",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "kumar2020analysis"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:BrmTIyaxlBUC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S135943112033427X",
+        "author_id": [
+            "YokW28IAAAAJ",
+            "",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Yh--xyp9kcgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2Ba%2Bhybrid%2Btranscritical%2BCO2%2Bvapor%2Bcompression%2Band%2Bvapor%2Bejector%2Brefrigeration%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Yh--xyp9kcgJ&ei=8YlZZ9ioO_uh6rQPpoL00AI&json=",
         "num_citations": 28,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14452470301901856610",
-        "cites_id": [
-            "14452470301901856610"
-        ]
+        "citedby_url": "/scholar?cites=14452470301901856610&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:Yh--xyp9kcgJ:scholar.google.com/&scioq=Analysis+of+a+hybrid+transcritical+CO2+vapor+compression+and+vapor+ejector+refrigeration+system&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S135943112033427X"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Rayleigh-Benard convection during solidification of an eutectic solution cooled from the top",
+            "author": "Kumar, P and Chakraborty, S and Srinivasan, K and Dutta, P",
+            "pub_year": "2002",
+            "venue": "Metallurgical and Materials \u2026",
+            "abstract": "The interaction between laminar Rayleigh-Benard convection and directional solidification is studied for the case of an eutectic solution kept in a rectangular cavity cooled from the top. Experiments and numerical simulations are carried out using an NH 4 Cl-H 2 O solution as the model fluid. The flow is visualized using a sheet of laser light scattered by neutrally buoyant, hollow-glass spheres seeded in the fluid. The numerical modeling is performed using a pressure-based finite-volume method according to the SIMPLER algorithm. The",
+            "publisher": "Springer",
+            "pages": "605--612",
+            "volume": "33",
+            "journal": "Metallurgical and Materials Transactions B",
+            "pub_type": "article",
+            "bib_id": "kumar2002rayleigh"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s11663-002-0040-3",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "2RQrq70AAAAJ",
+            "1fQLNl8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:mIwon_ehPdoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRayleigh-Benard%2Bconvection%2Bduring%2Bsolidification%2Bof%2Ban%2Beutectic%2Bsolution%2Bcooled%2Bfrom%2Bthe%2Btop%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mIwon_ehPdoJ&ei=-olZZ-yyJbiC6rQPvfy4wQ8&json=",
+        "num_citations": 28,
+        "citedby_url": "/scholar?cites=15725903558746868888&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:mIwon_ehPdoJ:scholar.google.com/&scioq=Rayleigh-Benard+convection+during+solidification+of+an+eutectic+solution+cooled+from+the+top&hl=en&as_sdt=0,33",
+        "eprint_url": "https://link.springer.com/content/pdf/10.1007/s11663-002-0040-3.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Dynamics of cold aisle air distribution in a raised floor data center",
+            "author": "Kumar, Pramod and Sundaralingam, Vikneshan and Joshi, Yogendra",
+            "pub_year": "2010",
+            "venue": "2010 3rd International \u2026",
+            "abstract": "Server manufacturers test compute equipment under ideal conditions such as quiescent surroundings, with no adverse pressure gradients at the inlet, which, hardly exist in a real data center. The dynamics of cold air delivery to the server can significantly impact server cooling and performance, especially at higher rack densities. Presently, very little is known on the physics of cold air distribution in a rack in a high density data center environment. The experimental work reported in this paper provides an insight into the raised floor cold air",
+            "organization": "IEEE",
+            "pages": "95--102",
+            "booktitle": "2010 3rd International Conference on Thermal Issues in Emerging Technologies Theory and Applications",
+            "pub_type": "inproceedings",
+            "bib_id": "kumar2010dynamics"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/5766384/",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:c-EDDr9aLucJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamics%2Bof%2Bcold%2Baisle%2Bair%2Bdistribution%2Bin%2Ba%2Braised%2Bfloor%2Bdata%2Bcenter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=c-EDDr9aLucJ&ei=AIpZZ62NCYCX6rQP3-vumAg&json=",
+        "num_citations": 25,
+        "citedby_url": "/scholar?cites=16658351848310432115&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:c-EDDr9aLucJ:scholar.google.com/&scioq=Dynamics+of+cold+aisle+air+distribution+in+a+raised+floor+data+center&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Cold aisle air distribution in a raised floor data center with heterogeneous opposing orientation racks",
+            "author": "Kumar, Pramod and Joshi, Yogendra and Patterson, Michael K and Steinbrecher, Robin and Mena, Marissa",
+            "pub_year": "2011",
+            "venue": "International \u2026",
+            "abstract": "In this paper we experimentally investigate the air flow distribution at the inlets of two opposing racks in a cold aisle. The racks have non uniform heat load and air flow requirements creating a heterogeneous data center environment. The Computer Room Air Conditioning (CRAC) unit fan speed is set to meet the air requirement of the high heat density rack. The effect of perforated tile air velocity on air distribution to both the racks is studied using particle image velocimetry (PIV) technique. PIV images are recorded at",
+            "pages": "497--504",
+            "volume": "44625",
+            "booktitle": "International Electronic Packaging Technical Conference and Exhibition",
+            "pub_type": "inproceedings",
+            "bib_id": "kumar2011cold"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://asmedigitalcollection.asme.org/InterPACK/proceedings-abstract/InterPACK2011/497/351246",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "YIW1IqcAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:LQxCJk-cY2UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCold%2Baisle%2Bair%2Bdistribution%2Bin%2Ba%2Braised%2Bfloor%2Bdata%2Bcenter%2Bwith%2Bheterogeneous%2Bopposing%2Borientation%2Bracks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LQxCJk-cY2UJ&ei=BYpZZ_vQDoWU6rQPlpvO6Aw&json=",
+        "num_citations": 24,
+        "citedby_url": "/scholar?cites=7305854884283288621&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:LQxCJk-cY2UJ:scholar.google.com/&scioq=Cold+aisle+air+distribution+in+a+raised+floor+data+center+with+heterogeneous+opposing+orientation+racks&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Artificial neural network model for single-phase real gas ejectors",
+            "author": "Gupta, Pradeep and Kumar, Pramod and Rao, Srisha MV",
             "pub_year": "2022",
-            "citation": "Applied thermal engineering 201, 117615, 2022"
+            "venue": "Applied thermal engineering",
+            "abstract": "Ejector is a passive gas dynamic device used ubiquitously in engineering applications. Applications of ejectors have transited from traditional steam extraction to heat-driven gas compression in supercritical and trans-critical CO 2 power and refrigeration cycles. The non-ideal gas behavior in such applications adds to the existing lack of fundamental understanding of the complex gas dynamics within the ejector. A number of simplified 1-D physics-based low-fidelity models have been proposed in the literature. These models offer",
+            "publisher": "Elsevier",
+            "pages": "117615",
+            "volume": "201",
+            "journal": "Applied thermal engineering",
+            "pub_type": "article",
+            "bib_id": "gupta2022artificial"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:vofGIMt6cyEC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431121010425",
+        "author_id": [
+            "iRe_oUMAAAAJ",
+            "wGXkEP0AAAAJ",
+            "eURBmWYAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:HbkfoeBqb5EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DArtificial%2Bneural%2Bnetwork%2Bmodel%2Bfor%2Bsingle-phase%2Breal%2Bgas%2Bejectors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HbkfoeBqb5EJ&ei=CYpZZ-TlOcKM6rQPvoHp6A8&json=",
         "num_citations": 23,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10479712370922862877",
-        "cites_id": [
-            "10479712370922862877"
-        ]
+        "citedby_url": "/scholar?cites=10479712370922862877&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:HbkfoeBqb5EJ:scholar.google.com/&scioq=Artificial+neural+network+model+for+single-phase+real+gas+ejectors&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431121010425"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Introduction to data center energy flow and thermal management",
+            "author": "Joshi, Yogendra and Kumar, Pramod",
+            "pub_year": "2012",
+            "venue": "Energy Efficient Thermal Management of Data Centers",
+            "abstract": "This chapter provides an introduction to the emerging trends in the growth of data centers. It is seen that projected growth in functionality and performance in information technology and communications equipment is resulting in sharply increasing power dissipation per unit facility footprint. Increased energy usage for powering and thermal management of data centers, which is a potential concern for continued growth of data centers is examined. The guidelines for environmental control of data centers to assure satisfactory equipment",
+            "publisher": "Springer",
+            "pages": "1--38",
+            "booktitle": "Energy Efficient Thermal Management of Data Centers",
+            "pub_type": "incollection",
+            "bib_id": "joshi2012introduction"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-1-4419-7124-1_1",
+        "author_id": [
+            "YIW1IqcAAAAJ",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:YoZin4lcBzoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntroduction%2Bto%2Bdata%2Bcenter%2Benergy%2Bflow%2Band%2Bthermal%2Bmanagement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YoZin4lcBzoJ&ei=EYpZZ5SbEpOW6rQPiNe78A4&json=",
+        "num_citations": 23,
+        "citedby_url": "/scholar?cites=4181412525191104098&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:YoZin4lcBzoJ:scholar.google.com/&scioq=Introduction+to+data+center+energy+flow+and+thermal+management&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fundamentals of data center airflow management",
+            "author": "Kumar, Pramod and Joshi, Yogendra",
+            "pub_year": "2012",
+            "venue": "Energy efficient thermal management of data centers",
+            "abstract": "Airflow management is probably the most important aspect of data center thermal management. It is an intricate and challenging process, influenced by many factors. This chapter presents some of the fundamental concepts governing airflows in today's data centers. As such, it provides a foundation necessary for understanding the remaining topics discussed in the book. The chapter begins by introducing the concept of system pressure drop and its influence on the computer room air conditioning (CRAC) unit performance",
+            "publisher": "Springer",
+            "pages": "39--136",
+            "booktitle": "Energy efficient thermal management of data centers",
+            "pub_type": "incollection",
+            "bib_id": "kumar2012fundamentals"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-1-4419-7124-1_2",
+        "author_id": [
+            "wGXkEP0AAAAJ",
+            "YIW1IqcAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:U4vTZDpNBb4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFundamentals%2Bof%2Bdata%2Bcenter%2Bairflow%2Bmanagement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=U4vTZDpNBb4J&ei=FopZZ4ebHvuh6rQPpoL00AI&json=",
+        "num_citations": 21,
+        "citedby_url": "/scholar?cites=13692435155284888403&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:U4vTZDpNBb4J:scholar.google.com/&scioq=Fundamentals+of+data+center+airflow+management&hl=en&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "Artificial neural network based shape optimization of supersonic ejectors in the critical flow regime",
+            "author": "Gupta, Pradeep and Kumar, Pramod and Rao, Srisha MV",
             "pub_year": "2022",
-            "citation": "Applied Thermal Engineering 216, 119046, 2022"
+            "venue": "Applied Thermal Engineering",
+            "abstract": "Supersonic ejectors are widely used in energy, refrigeration, and aerospace propulsion applications. A supersonic ejector is a passive gasdynamic device consisting of a converging\u2013diverging nozzle located in a varying area mixing duct where the secondary fluid is compressed by mixing with high momentum primary fluid. The entrainment ratio (ER, ratio of mass flow rates of the secondary to primary flow) is dependent on the mixing duct geometry, necessitating shape optimization. Complex gasdynamic interactions in the ejector",
+            "publisher": "Elsevier",
+            "pages": "119046",
+            "volume": "216",
+            "journal": "Applied Thermal Engineering",
+            "pub_type": "article",
+            "bib_id": "gupta2022artificial"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:TpYZtc-0n-8C",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431122009784",
+        "author_id": [
+            "iRe_oUMAAAAJ",
+            "wGXkEP0AAAAJ",
+            "eURBmWYAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:xIFvq5H4ArwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DArtificial%2Bneural%2Bnetwork%2Bbased%2Bshape%2Boptimization%2Bof%2Bsupersonic%2Bejectors%2Bin%2Bthe%2Bcritical%2Bflow%2Bregime%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xIFvq5H4ArwJ&ei=HopZZ5DAE_aT6rQPht_eqAk&json=",
         "num_citations": 19,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13547663933614031300",
-        "cites_id": [
-            "13547663933614031300"
-        ]
+        "citedby_url": "/scholar?cites=13547663933614031300&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:xIFvq5H4ArwJ:scholar.google.com/&scioq=Artificial+neural+network+based+shape+optimization+of+supersonic+ejectors+in+the+critical+flow+regime&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431122009784"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
             "title": "A trade-off between maxima in efficiency and specific work output of super-and trans-critical CO2 Brayton cycles",
+            "author": "Garg, Pardeep and Kumar, Pramod and Srinivasan, Kandadai",
             "pub_year": "2015",
-            "citation": "The Journal of Supercritical Fluids 98, 119-126, 2015"
+            "venue": "The Journal of Supercritical Fluids",
+            "abstract": "Several operational aspects for thermal power plants in general are non-intuitive and involve simultaneous optimization of a number of operational parameters. In the case of solar operated power plants, it is even more difficult due to varying heat source temperatures induced by variability in insolation levels. This paper introduces a quantitative methodology for load regulation of a CO 2 based Brayton cycle power plant using the 'thermal efficiency and specific work output'coordinate system. The analysis shows that a transcritical CO 2",
+            "publisher": "Elsevier",
+            "pages": "119--126",
+            "volume": "98",
+            "journal": "The Journal of Supercritical Fluids",
+            "pub_type": "article",
+            "bib_id": "garg2015trade"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:qjMakFHDy7sC",
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0896844615000108",
+        "author_id": [
+            "9PyletoAAAAJ",
+            "wGXkEP0AAAAJ",
+            "1fQLNl8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:pd1kqewwIwwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Btrade-off%2Bbetween%2Bmaxima%2Bin%2Befficiency%2Band%2Bspecific%2Bwork%2Boutput%2Bof%2Bsuper-and%2Btrans-critical%2BCO2%2BBrayton%2Bcycles%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pd1kqewwIwwJ&ei=JYpZZ97yL-i96rQP5uD0-QQ&json=",
         "num_citations": 19,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=874596545652383141",
-        "cites_id": [
-            "874596545652383141"
-        ]
+        "citedby_url": "/scholar?cites=874596545652383141&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:pd1kqewwIwwJ:scholar.google.com/&scioq=A+trade-off+between+maxima+in+efficiency+and+specific+work+output+of+super-and+trans-critical+CO2+Brayton+cycles&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0896844615000108"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "Analysis of a Dual Recuperated Dual Expansion Supercritical CO2 Cycle for Waste Heat Recovery Applications",
-            "pub_year": "2021",
-            "citation": "Transactions of the Indian National Academy of Engineering 6, 439-459, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:CdxZDUztZiMC",
-        "num_citations": 16,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9273635538869409998",
-        "cites_id": [
-            "9273635538869409998"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Electromagnetic design of a 5-kW, 10,000-rpm switched reluctance machine",
-            "pub_year": "2016",
-            "citation": "2016 7th India International Conference on Power Electronics (IICPE), 1-6, 2016"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:L8Ckcad2t8MC",
-        "num_citations": 15,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5521118143760449727",
-        "cites_id": [
-            "5521118143760449727"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of Turbomachinery Losses in sCO2 Brayton Power Blocks",
-            "pub_year": "2022",
-            "citation": "Journal of Energy Resources Technology 144 (11), 112101, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:fXbrI0tPCuEC",
-        "num_citations": 12,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=482591168891355027",
-        "cites_id": [
-            "482591168891355027"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Novel Approaches for sCO2 Axial Turbine Design",
-            "pub_year": "2019",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 58721, V009T38A011, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:fPk4N6BV_jEC",
-        "num_citations": 11,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12758375393937637965",
-        "cites_id": [
-            "12758375393937637965"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Design of 20 kW turbomachinery for closed loop supercritical carbon dioxide Brayton test loop facility",
-            "pub_year": "2019",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 58721, V009T38A016, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:JV2RwH3_ST0C",
-        "num_citations": 11,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8893177805644202701",
-        "cites_id": [
-            "8893177805644202701"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Supercritical carbon dioxide turbomachinery options for kilowatt to gigawatt level power generation",
-            "pub_year": "2019",
-            "citation": "Gas Turbine India Conference 83532, V002T08A007, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ZHo1McVdvXMC",
-        "num_citations": 8,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12036567172327893245",
-        "cites_id": [
-            "12036567172327893245"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Design of an Experimental Test Facility for Supercritical CO2 Brayton Cycle",
+            "title": "Phase field simulation of equiaxed microstructure formation during semi-solid processing of A380 Al alloy",
+            "author": "Das, Prosenjit and Samanta, Sudip Kumar and Kumar, Pramod and Dutta, Pradip",
             "pub_year": "2014",
-            "citation": "Energy Sustainability 45868, V001T05A005, 2014"
+            "venue": "ISIJ international",
+            "abstract": "A phase field modelling approach is implemented in the present study towards simulation of microstructure evolution during cooling slope semi solid slurry generation process of A380 Aluminium alloy. First, experiments are performed to evaluate the number of seeds required within the simulation domain to simulate near spherical microstructure formation, occurs during cooling slope processing of the melt. Subsequently, microstructure evolution is studied employing a phase field method. Simulations are performed to understand the effect",
+            "publisher": "The Iron and Steel Institute of Japan",
+            "pages": "1601--1610",
+            "number": "7",
+            "volume": "54",
+            "journal": "ISIJ international",
+            "pub_type": "article",
+            "bib_id": "das2014phase"
         },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:EUQCXRtRnyEC",
-        "num_citations": 8,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14276455386105238439",
-        "cites_id": [
-            "14276455386105238439"
-        ]
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.jstage.jst.go.jp/article/isijinternational/54/7/54_1601/_article/-char/ja/",
+        "author_id": [
+            "02gn9uQAAAAJ",
+            "jHuuCQ0AAAAJ",
+            "wGXkEP0AAAAJ",
+            "9Kc9XlkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:m-mB7KB2PLoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPhase%2Bfield%2Bsimulation%2Bof%2Bequiaxed%2Bmicrostructure%2Bformation%2Bduring%2Bsemi-solid%2Bprocessing%2Bof%2BA380%2BAl%2Balloy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=m-mB7KB2PLoJ&ei=L4pZZ5DaGMyR6rQP07D8iAY&json=",
+        "num_citations": 19,
+        "citedby_url": "/scholar?cites=13419731423192017307&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:m-mB7KB2PLoJ:scholar.google.com/&scioq=Phase+field+simulation+of+equiaxed+microstructure+formation+during+semi-solid+processing+of+A380+Al+alloy&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.jstage.jst.go.jp/article/isijinternational/54/7/54_1601/_html/-char/ja/"
     },
     {
         "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
         "bib": {
-            "title": "CONCENTRATING SOLAR POWERED TRANSCRITICAL CO2 POWER GENERATION CYCLE FOR THE UNION TERRITORY OF LADAKH, INDIA",
-            "pub_year": "2023",
-            "citation": "International Journal of Energy for a Clean Environment 24 (4), 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:Qovp55VTycgC",
-        "num_citations": 7,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4952844673077453966",
-        "cites_id": [
-            "4952844673077453966"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Harmonic analysis of the high speed direct coupled SCO2 turbo-generator",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T10A010, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:esGtpfCv0y8C",
-        "num_citations": 7,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3854425847936777087",
-        "cites_id": [
-            "3854425847936777087"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Simple recuperated S-CO2 cycle revisited: Optimization of operating parameters for maximum cycle efficiency",
-            "pub_year": "2019",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 58721, V009T38A002, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:uWQEDVKXjbEC",
-        "num_citations": 7,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16076966250126982478",
-        "cites_id": [
-            "16076966250126982478"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Low-frequency unsteadiness of recompression shock structures in the diffuser of supersonic ejectors",
-            "pub_year": "2023",
-            "citation": "Physics of Fluids 35 (3), 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:L8oS6_awjPoC",
-        "num_citations": 5,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12092202606465397932",
-        "cites_id": [
-            "12092202606465397932"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Thermodynamic analysis on the effect of supercritical CO2 ejector in cogeneration cycle for dairy application",
-            "pub_year": "2023",
-            "citation": "Thermal Science and Engineering Progress 39, 101729, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:9Pw2l-cN0AIC",
-        "num_citations": 5,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2696397703695280258",
-        "cites_id": [
-            "2696397703695280258"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Influence of Geometric Parameters for a 100\u2009kW Inward Flow Radial Supercritical CO2 Turbine",
-            "pub_year": "2023",
-            "citation": "Journal of Engineering for Gas Turbines and Power 145 (1), 011020, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:KKhxhHPhcTsC",
-        "num_citations": 5,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4243782839927348418",
-        "cites_id": [
-            "4243782839927348418"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Development of a canister module for PCM coupled heat pipe in spacecraft thermal management",
-            "pub_year": "2021",
-            "citation": "IEEE Transactions on Components, Packaging and Manufacturing Technology 11 \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:rqnDXT1GswoC",
-        "num_citations": 5,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16425906781546427328",
-        "cites_id": [
-            "16425906781546427328"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental vibration studies on a solid-rotor switched reluctance machine",
-            "pub_year": "2021",
-            "citation": "IEEE Transactions on Industry Applications 57 (5), 4852-4863, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:1sJd4Hv_s6UC",
-        "num_citations": 5,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16078703387628010541",
-        "cites_id": [
-            "16078703387628010541"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of parasitic losses on the design optimization of inward flow radial supercritical CO2 turbines",
-            "pub_year": "2024",
-            "citation": "Proceedings of the Institution of Mechanical Engineers, Part A: Journal of \u2026, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:62yiFa7nMbkC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6478090994826616712",
-        "cites_id": [
-            "6478090994826616712"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental investigations on a coupled metal hydride based thermal energy storage system",
-            "pub_year": "2024",
-            "citation": "International Journal of Hydrogen Energy 56, 1371-1383, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:w1G5vK4DiEkC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12759945443729477752",
-        "cites_id": [
-            "12759945443729477752"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Design and Implementation of a Control Strategy for a Dynamic Organic Rankine Cycle\u2010Based Power System in the Context of Industrial Waste Heat Recovery",
-            "pub_year": "2023",
-            "citation": "Energy Technology 11 (11), 2300425, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ClN-LZ0IzgkC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16758738523645461218",
-        "cites_id": [
-            "16758738523645461218"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Two Stage Radial Compressor for a Kilowatt Scale Supercritical Carbon Dioxide Power Block: Design Considerations",
-            "pub_year": "2022",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 86083, V009T28A006, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:Ui6Ig_dFDbcC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13004636420202298895",
-        "cites_id": [
-            "13004636420202298895"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Bearing selection for high-speed electrical machine",
-            "pub_year": "2021",
-            "citation": "2021 National Power Electronics Conference (NPEC), 01-06, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:Xnn2mF3JXD4C",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18148416564810437671",
-        "cites_id": [
-            "18148416564810437671"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Theoretical Estimation of Minimum and Maximum Allowable Rotational Speed of Supercritical CO2 Inward Flow Radial Turbine",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T12A007, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:N5XbD978G_MC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17719076234141857496",
-        "cites_id": [
-            "17719076234141857496"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of Aerostatic Thrust Bearing for S-CO2 Turbomachinery",
-            "pub_year": "2019",
-            "citation": "Gas Turbine India Conference 83525, V001T05A015, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:cFcI8uaobsAC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4437341959132920824",
-        "cites_id": [
-            "4437341959132920824"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Feasibility of a Direct Coupled Turbine-Compressor Power Block for S-CO2 Brayton Cycles",
-            "pub_year": "2016",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 49873, V009T36A009, 2016"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:Tiz5es2fbqcC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16869388798776089519",
-        "cites_id": [
-            "16869388798776089519"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Thermo-economic analysis of a mixture of RC-318 and pentane as a working fluid in a high temperature ORC",
-            "pub_year": "2015",
-            "citation": "Proceedings of the 3rd International Seminar on ORC Power Systems, Brussels \u2026, 2015"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:XiSMed-E-HIC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16776643744968302133",
-        "cites_id": [
-            "16776643744968302133"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of temperature difference across ORC boiler on the thermal storage medium cost in a solar ORC",
-            "pub_year": "2015",
-            "citation": "3rd International Seminar on ORC Power Systems. Brussels, 2015"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:kNdYIx-mwKoC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3805867174863086537",
-        "cites_id": [
-            "3805867174863086537"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Sliding Pressure Inventory Control of a Supercritical CO2 Cycle for Concentrated Solar Power\u2014Analysis and Implications",
-            "pub_year": "2024",
-            "citation": "Journal of Solar Energy Engineering 146 (1), 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:qyimiW2FXDQC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5289312614471119215",
-        "cites_id": [
-            "5289312614471119215"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Specific Speed Considerations for Inward Flow Radial Supercritical CO2 Turbines",
-            "pub_year": "2022",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 86083, V009T28A011, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:mZB2-lCpWbQC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5790604404875959802",
-        "cites_id": [
-            "5790604404875959802"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Profile loss investigations with a S-CO2 axial turbine aerofoil",
-            "pub_year": "2020",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 84232, V011T31A015, 2020"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:rGOK5rmJZT0C",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8148367272680768123",
-        "cites_id": [
-            "8148367272680768123"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental investigations on a high-speed rotor for a switched reluctance machine",
-            "pub_year": "2018",
-            "citation": "2018 8th IEEE India International Conference on Power Electronics (IICPE), 1-6, 2018"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:D03iK_w7-QYC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13462285845120667842",
-        "cites_id": [
-            "13462285845120667842"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Optimization of Operating Parameters of a Recompression sCO2 Cycle for Maximum Efficiency",
-            "pub_year": "2017",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 50961, V009T38A022, 2017"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:7PzlFSSx8tAC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5434249855881108864",
-        "cites_id": [
-            "5434249855881108864"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Supercritical carbon dioxide-based power cycles",
-            "pub_year": "2017",
-            "citation": "Elsevier, 2017"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:eQOLeE2rZwMC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2458337720176042203",
-        "cites_id": [
-            "2458337720176042203"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Elevation of Heat Rejection Temperature in Transcritical Condensing Cycles Using CO2+Propane Mixtures",
+            "title": "Organic Brayton Cycles with solid sorption thermal compression for low grade heat utilization",
+            "author": "Dutta, P and Kumar, P and Ng, KC and Murthy, S Srinivasa and Srinivasan, K",
             "pub_year": "2014",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 45660, V03BT36A015, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:5nxA0vEk-isC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3582661321644693656",
-        "cites_id": [
-            "3582661321644693656"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Moment analysis of a scroll expander used in an organic Rankine cycle",
-            "pub_year": "2014",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 45660, V03BT26A014, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:u-x6o8ySG0sC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=106259456662139349",
-        "cites_id": [
-            "106259456662139349"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Solar thermal power system augmented with LHP",
-            "pub_year": "2014",
-            "citation": "Energy Procedia 49, 295-304, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:isC4tDSrTZIC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8234945878298661207",
-        "cites_id": [
-            "8234945878298661207"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental Investigations on 10,000-RPM Slitted-Rotor Switched Reluctance Machine",
-            "pub_year": "2022",
-            "citation": "2022 IEEE Energy Conversion Congress and Exposition (ECCE), 1-7, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:_V0JUKP8578C",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9732579672177628271",
-        "cites_id": [
-            "9732579672177628271"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Vaneless Diffuser Performance in a Super-Critical Carbon Dioxide Centrifugal Compressor With Real Gas Effects",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T04A007, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:SC9kKMAi-DoC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16369962956701733397",
-        "cites_id": [
-            "16369962956701733397"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Preliminary Aerodynamic Design of a S-CO2 Axial Turbine",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T12A009, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:m8MyhXdlT-4C",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7394684312071954421",
-        "cites_id": [
-            "7394684312071954421"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Thermal resistance-capacitance network model for a PCM coupled heat pipe",
-            "pub_year": "2021",
-            "citation": "2021 20th IEEE Intersociety Conference on Thermal and Thermomechanical \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:lbI08cpqPnQC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13190351465262582517",
-        "cites_id": [
-            "13190351465262582517"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Modelling of Gas Cooler for S-CO2 Brayton Power Cycle",
-            "pub_year": "2019",
-            "citation": "Gas Turbine India Conference 83532, V002T08A010, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:TKVID9p7UpsC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6139542183032841962",
-        "cites_id": [
-            "6139542183032841962"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analytical model for a cylindrical heat pipe",
-            "pub_year": "2019",
-            "citation": "2019 18th IEEE Intersociety Conference on Thermal and Thermomechanical \u2026, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:e5wmG9Sq2KIC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6709696025810608281",
-        "cites_id": [
-            "6709696025810608281"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Design of 20 kW Turbomachinery for Closed Loop Supercritical Carbon Dioxide Brayton Test Loop Facility",
-            "pub_year": "2019",
-            "citation": "GT2019-90876, ASME Turboexpo, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:yRL2jD08WzAC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12900514539408237291",
-        "cites_id": [
-            "12900514539408237291"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of mixing duct geometry of supersonic ejector in the critical flow regime",
-            "pub_year": "2019",
-            "citation": "Proceedings of the 32nd International Symposium of Shock Wave July, 14-19, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:MAUkC_7iAq8C",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15871771823119316469",
-        "cites_id": [
-            "15871771823119316469"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "THERMAL RESISTANCE NETWORK MODEL FOR A RECUPERATOR IN S-CO2 POWER CYCLE",
-            "pub_year": "2018",
-            "citation": "International Heat Transfer Conference Digital Library, 2018"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:WF5omc3nYNoC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2512537618221213167",
-        "cites_id": [
-            "2512537618221213167"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of radial heat transfer in the pebble bed thermal energy storage tank coupled to a solar organic Rankine cycle",
-            "pub_year": "2015",
-            "citation": "Proc. ASME ORC, 2015"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:u5HHmVD_uO8C",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9345210454207057163",
-        "cites_id": [
-            "9345210454207057163"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Structural analysis and determination of critical speed of a 10,000 rpm switched reluctance machine rotor",
-            "pub_year": "2023",
-            "citation": "2023 9th IEEE India International Conference on Power Electronics (IICPE), 1-6, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:U5I91ptAnUUC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16715953112083852335",
-        "cites_id": [
-            "16715953112083852335"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Influence of geometrical and operational parameters on the leakage flow of a radial labyrinth seal for application in inward flow radial supercritical CO2 turbine",
-            "pub_year": "2023",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 87073, V012T28A025, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:5n9gSBKMxCsC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15939383017898600846",
-        "cites_id": [
-            "15939383017898600846"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical Analysis of a Shrouded Centrifugal Compressor for Use in Supercritical Carbon Dioxide (s-CO2) Brayton Cycle",
-            "pub_year": "2023",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 87103, V13CT32A032, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:B_SudGh4-BUC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13430065494438908453",
-        "cites_id": [
-            "13430065494438908453"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Performance evaluation of air ejectors using artificial neural network approach",
-            "pub_year": "2023",
-            "citation": "S\u0101dhan\u0101 48 (2), 45, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:6Dd5luMImnEC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8953987035209725738",
-        "cites_id": [
-            "8953987035209725738"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical analysis of supercritical CO2 nozzle on the ejector performance",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:4DpXlaHga4wC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9156905094542964541",
-        "cites_id": [
-            "9156905094542964541"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Brayton Cycle Supercritical CO2 Power Block for Industrial Waste Heat Recovery",
-            "pub_year": "2019",
-            "citation": "Gas Turbine India Conference 83532, V002T08A001, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:GnPB-g6toBAC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9988973399805097595",
-        "cites_id": [
-            "9988973399805097595"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Novel Modelling Approach and Stack Optimization for Recuperator in s-CO2 Brayton Cycle",
-            "pub_year": "2019",
-            "citation": "Proceedings of the 25th National and 3rd International ISHMT-ASTFE Heat and \u2026, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:pqnbT2bcN3wC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11589741615904229722",
-        "cites_id": [
-            "11589741615904229722"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analytical Analysis of Aerostatic Thrust Bearing in Adiabatic and Isothermal Condition",
-            "pub_year": "2019",
-            "citation": "Proceedings of the 25th National and 3rd International ISHMT-ASTFE Heat and \u2026, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ufrVoPGSRksC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2512817645313338391",
-        "cites_id": [
-            "2512817645313338391"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Thermo\u2013Fluidic and Mechanical Losses in a Scroll Expander for an R134a Organic Rankine Cycle",
-            "pub_year": "2015",
-            "citation": "ASME, Conference paper 156, 2015"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:_Qo2XoVZTnwC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7002309822612367304",
-        "cites_id": [
-            "7002309822612367304"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Modeling of Metal Matrix Concentrated Solar Receivers for Supercritical Carbon Dioxide Power Blocks",
-            "pub_year": "2025",
-            "citation": "Journal of Engineering for Gas Turbines and Power 147 (3), 2025"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:kVZqXsXrJl0C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Optimal Part-Load Control of Supercritical Carbon Dioxide Brayton Cycles",
-            "pub_year": "2024",
-            "citation": "Journal of Engineering for Gas Turbines and Power, 1-42, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:QhmGFXoqNHAC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "A physics-based hybrid model for supercritical CO2 ejector in critical flow regime",
-            "pub_year": "2024",
-            "citation": "Physics of Fluids 36 (8), 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:END1nS_e-6cC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "CFD Modeling of End Effects of Gas Cooler Heat Exchanger for sCO2 Power Blocks",
-            "pub_year": "2024",
-            "citation": "Heat Transfer Summer Conference 87905, V001T05A002, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:UWSlATeI89AC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Evaluation of Cold Flow Test Conditions and Test Fluid Selection for a 60-kW Radial Inflow Supercritical CO2 Turbine",
-            "pub_year": "2024",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 88049, V011T28A043, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:x3zuONe3eqIC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Topological Shape and Performance Optimisation of Microchannel Diffusion-Bonded Heat Exchangers Used in sCO2 Brayton Cycle",
-            "pub_year": "2024",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 88049, V011T28A015, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:ZD92IwzDgOkC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Vaneless Diffuser Modelling for Real Gas Supercritical Carbon Dioxide Flows-Need for a Data Driven Approach",
-            "pub_year": "2024",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 88049, V011T28A021, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:QuPaituDtm8C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Modeling of Metal Matrix Concentrated Solar Receivers for sCO2 Power Blocks",
-            "pub_year": "2024",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 88094, V013T13A043, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:uPwIINvFgpoC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "A METHOD OF MANUFACTURING AN ENERGY EXCHANGING DEVICE",
-            "pub_year": "2024",
-            "citation": "US Patent App. 18/553,081, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:WWyA8FEaYkEC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Structural Analysis of Slitted Rotor for 10,000 rpm Switched Reluctance Machine",
-            "pub_year": "2024",
-            "citation": "2024 Third International Conference on Power, Control and Computing \u2026, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:tVbZQR0Ku0MC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Research progress on thermo-hydraulic characteristics and optimization of PCHEs for high temperature-pressure applications",
-            "pub_year": "2024",
-            "citation": "Sustainable Energy & Fuels, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:wlh7PBhwZ8MC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Quasi-One-Dimensional Loss Model of Volute Using Boundary Layer Approach for Inward Flow Radial Supercritical CO2 Turbines",
-            "pub_year": "2024",
-            "citation": "Journal of Engineering for Gas Turbines and Power 146 (1), 2024"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:teyi7TG2FwAC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental Vibration Studies of a 10 kW 30,000 RPM High-speed Switched Reluctance Motor",
-            "pub_year": "2023",
-            "citation": "2023 11th National Power Electronics Conference (NPEC), 1-6, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:327GGIiaIgIC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical Investigations of Sector-Shaped Hybrid Fluid Film Thrust Bearing for High-Speed sCO2 Turbomachinery",
-            "pub_year": "2023",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 87059, V11AT22A028, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:sduUCncrepAC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "One Dimensional Model to Predict the Total Pressure Loss of Volute for Inward Flow Radial Supercritical CO2 Turbines",
-            "pub_year": "2023",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 87073, V012T28A021, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:7E1sdDGsGRMC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Novel Supercritical Carbon Dioxide Cycle for a Waste Recovery Application",
-            "pub_year": "2022",
-            "citation": "Biennial International Conference on Future Learning Aspects of Mechanical \u2026, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:g4gGp8M7V98C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Coupled Thermal-Structural Analysis of Generator For sCO2 Turbomachinery",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T10A011, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:HkunuPqSaCsC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "CFD Simulations of a PCM coupled heat pipe with thermal enhancers",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:P5iVsrg4GywC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Flight Experiment of PCM coupled heat pipe onboard GSAT-29 spacecraft",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:UO6ax3c-pNsC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Performance Analysis of an Aerostatic Thrust Bearing",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:cAX_JoMERPUC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Study of a Waste Heat Recovery Cycle Using Super-Critical Carbon Dioxide as Working Fluid",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:hEp1lTclR2YC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "EXPERIMENTAL EVALUATION OF THERMAL CONDUCTANCE OF ON AXIALLY GROOVED HEAT PIPE",
-            "pub_year": "2017",
-            "citation": "Proceedings of the 24th National and 2nd International ISHMT-ASTFE Heat and \u2026, 2017"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:maZDTaKrznsC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "THEORETICAL ESTIMATION AND EXPERIMENTAL EVALUATION OF HEAT CAPACITY OF AN AXIALLY GROOVED HEAT PIPE",
-            "pub_year": "2017",
-            "citation": "Proceedings of the 24th National and 2nd International ISHMT-ASTFE Heat and \u2026, 2017"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:HDshCWvjkbEC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of single silica gel particle adsorption on the transport processes in a humid air stream",
-            "pub_year": "2013",
-            "citation": "APS Division of Fluid Dynamics Meeting Abstracts, R2. 001, 2013"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:dhFuZR0502QC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Characterization of Transient Air Temperatures in a Data Center Following Chiller Failure.",
-            "pub_year": "2012",
-            "citation": "International Journal of Transport Phenomena 13 (2), 2012"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:3fE2CSJIrl8C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "ANALYSIS OF SCROLL EXPANDER FOR S-CO2 BRAYTON CYCLES",
-            "pub_year": "2011",
-            "citation": "Education 2015, 2011"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:nb7KW1ujOQ8C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical investigation of thermo-hydraulic characteristics of sCO2 recuperator with hybrid, zigzag, and sinusoidal channels",
-            "citation": "Journal of Enhanced Heat Transfer, 0"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:0wD49__q8KEC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Supercritical CO2 Power Cycles and Turbomachinery Development for Renewable Energy and Waste Heat Recovery",
-            "citation": "Bangalore, 0"
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:sh0SZVkQclgC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical Analysis of Ejector Performance Near the Critical Back Pressure",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "wGXkEP0AAAAJ:HGTzPopzzJcC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Techno-economic comparison of solar organic Rankine cycle (ORC) and photovoltaic (PV) systems with energy storage",
-            "pub_year": "2017",
-            "citation": "Renewable Energy 113, 1250-1260, 2017"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:0EnyYjriUFMC",
-        "num_citations": 122,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2132903064313349932",
-        "cites_id": [
-            "2132903064313349932"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Economic optimization of Organic Rankine cycle with pure fluids and mixtures for waste heat and solar applications using particle swarm optimization method",
-            "pub_year": "2018",
-            "citation": "Energy Conversion and Management 165, 649-668, 2018"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:5nxA0vEk-isC",
-        "num_citations": 33,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12729935216220757359",
-        "cites_id": [
-            "12729935216220757359"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Advanced low pressure cycle for concentrated solar power generation",
-            "pub_year": "2014",
-            "citation": "Energy Sustainability 45868, V001T02A033, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:IjCSPb-OGe4C",
-        "num_citations": 10,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11087078055588842680",
-        "cites_id": [
-            "11087078055588842680"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Ground cooling system for improving the efficiency of low temperature power generation",
-            "pub_year": "2014",
-            "citation": "Energy Sustainability 45868, V001T02A047, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12779022344488754783",
-        "cites_id": [
-            "12779022344488754783"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Smart Irrigation System Using Machine Learning and IoT",
-            "pub_year": "2023",
-            "citation": "Jaypee University of Information Technology, Solan, HP, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:Zph67rFs4hoC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Thermodynamics of Distributed Solar Thermal Power Systems with Storage",
-            "pub_year": "2018",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:8k81kl-MbHgC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Elevation of Heat Rejection Temperature in Transcritical Condensing Cycles Using CO2+ Propane Mixtures",
-            "pub_year": "2014",
-            "citation": "Elevation of Heat Rejection Temperature in Transcritical Condensing Cycles \u2026, 2014"
-        },
-        "filled": false,
-        "author_pub_id": "9PyletoAAAAJ:kNdYIx-mwKoC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Two stage radial compressor for a kilowatt scale supercritical carbon dioxide power block: Design considerations",
-            "pub_year": "2022",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 86083, V009T28A006, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "9xPo_qsAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13004636420202298895",
-        "cites_id": [
-            "13004636420202298895"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Vaneless Diffuser Modeling for Real Gas Supercritical Carbon Dioxide Flows: Need for a Data-Driven Approach",
-            "pub_year": "2025",
-            "citation": "Journal of Engineering for Gas Turbines and Power 147 (4), 2025"
-        },
-        "filled": false,
-        "author_pub_id": "9xPo_qsAAAAJ:eQOLeE2rZwMC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Modeling of Supercritical Carbon Dioxide Centrifugal Compressors for Brayton Power Cycles",
-            "pub_year": "2024",
-            "citation": "https://etd.iisc.ac.in/handle/2005/6687, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "9xPo_qsAAAAJ:WF5omc3nYNoC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of compact heat exchanger for a sCO2 Brayton cycle",
-            "pub_year": "2019",
-            "citation": "5th International Workshop on Heat-Mass Transfer Advances for Energy \u2026, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "9xPo_qsAAAAJ:Tyk-4Ss8FVUC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Studies on mixing characteristics in the critical flow regime of supersonic ejectors",
-            "pub_year": "2022",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:hqOjcs7Dif8C",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5042840003190459231",
-        "cites_id": [
-            "5042840003190459231"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of Mixing Duct Geometry of Supersonic Ejector in the Critical Flow Regime",
-            "pub_year": "2019",
-            "citation": "International Symposium of Shock Wave (ISSW32), NUS Singapore 32, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15871771823119316469",
-        "cites_id": [
-            "15871771823119316469"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Performance Evaluation of Air Ejectors using Artificial Neural Network Approach",
-            "pub_year": "2022",
-            "citation": "7th National and 1st International Conference Refrigeration and Air \u2026, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8953987035209725738",
-        "cites_id": [
-            "8953987035209725738"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical studies of a supersonic air ejector using large eddy simulation",
-            "pub_year": "2021",
-            "citation": "Proceedings of the 26thNational and 4th International ISHMT-ASTFE Heat and \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15615425957975229486",
-        "cites_id": [
-            "15615425957975229486"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Refrigerated Transportation and Cold-chain Logistics in India\u2013Current Status and Future Prospects",
-            "pub_year": "2023",
-            "citation": "Proceedings of the 26th IIR International Congress of Refrigeration: Paris \u2026, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:Wp0gIr-vW9MC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Reconstructing Laser Scattering Images from High-speed Schlieren Images using Convolutional Neural Network",
-            "pub_year": "2022",
-            "citation": "Fluid Mechanics and Fluid Power Conference, IIT Roorkee, Roorkee, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Study on Unsteady Shock Motion in the Diffuser Section of a Supersonic Ejector",
-            "pub_year": "2022",
-            "citation": "Shock Interaction Symposium, IIT Madras, Chennai, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:W7OEmFMy1HYC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Integrated trans-critical CO2 refrigeration system for supermarket applications",
-            "pub_year": "2022",
-            "citation": "ME =@75 Research Frontier Conference, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:eQOLeE2rZwMC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Advanced R744 solution for supermarkets, hotel chillers and maritime applications in India",
-            "pub_year": "2022",
-            "citation": "15th IIR-Gustav Lorentzen Conference on Natural Refrigerants-GL2022 \u2026, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:YsMSGLbcyi4C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Application of Supersonic Ejectors in Energy Conservation Devices.",
-            "pub_year": "2022",
-            "citation": "National Webinar on Science and Technology (Hindi), 2022"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:IjCSPb-OGe4C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical studies on the transition from the critical to the mixed flow regime in a constant area ejector",
-            "pub_year": "2019",
-            "citation": "25th National and 3rd International ISHMT-ASTEF Heat and Mass Transfer \u2026, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:qjMakFHDy7sC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Effect of Duct Geometry on Mixing Characteristics in Constant Area Supersonic Ejector",
-            "pub_year": "2018",
-            "citation": "5th National Symposium on Shock Waves, 2018"
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Hybrid ANN-model for Estimating Performance Parameters of Supersonic Air Ejectors",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:dhFuZR0502QC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "COMPARISON OF COLOR VISION DISCRIMINATION IN MALE AND FEMALE EYES AMONG YOUNG ADULTS-A CROSS SECTION OBSERVATIONAL STUDY",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "iRe_oUMAAAAJ:qxL8FJ1GzNcC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Investigations on Radial Inflow Turbine for Supercritical CO2 Power Cycles",
-            "pub_year": "2024",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "Z4tDyMEAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Harmonic Analysis of the High Speed Direct Coupled SCO2 Turbo-Generator",
-            "pub_year": "2021",
-            "citation": "Gas Turbine India Conference 85536, V001T10A010, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "LXh0SNcAAAAJ:QIV2ME_5wuYC",
-        "num_citations": 7,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3854425847936777087",
-        "cites_id": [
-            "3854425847936777087"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Bearing Selection for High-Speed Electrical Machine",
-            "pub_year": "2021",
-            "citation": "2021 National Power Electronics Conference (NPEC), 01-06, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "LXh0SNcAAAAJ:dhFuZR0502QC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18148416564810437671",
-        "cites_id": [
-            "18148416564810437671"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental Investigations on a High-Speed Rotor for a Switched Reluctance Machine",
-            "pub_year": "2018",
-            "citation": "2018 8th IEEE India International Conference on Power Electronics (IICPE), 1-6, 2018"
-        },
-        "filled": false,
-        "author_pub_id": "LXh0SNcAAAAJ:Zph67rFs4hoC",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13462285845120667842",
-        "cites_id": [
-            "13462285845120667842"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Semi-Analytical Model for High-Speed Rotor Whirl Prediction: An Assumed Modes Formulation for an Axisymmetric Rotor With Non-Uniform Properties",
-            "pub_year": "2022",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 86076, V08BT26A012, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "LXh0SNcAAAAJ:L8Ckcad2t8MC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical modelling and heat transfer optimization of large-scale multi-tubular metal hydride reactors",
-            "pub_year": "2023",
-            "citation": "International Journal of Hydrogen Energy 48 (42), 16020-16036, 2023"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:IWHjjKOFINEC",
-        "num_citations": 18,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4987761036082389948",
-        "cites_id": [
-            "4987761036082389948"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Performance enhancement of topology-optimized liquid-cooled heat sink with increased spanwise length of design domain",
-            "pub_year": "2024",
-            "citation": "International Journal of Heat and Mass Transfer 226, 125463, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:HDshCWvjkbEC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4909658705388728970",
-        "cites_id": [
-            "4909658705388728970"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Sizing of recuperator for sCO2 Brayton cycle using stack-based thermal resistance framework coupled with unit-cell CFD model",
-            "pub_year": "2024",
-            "citation": "International Journal of Heat and Mass Transfer 223, 125179, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:-f6ydRqryjwC",
-        "num_citations": 4,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6965827940768072000",
-        "cites_id": [
-            "6965827940768072000"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Modelling and analysis of pre-cooler for a sCO2 Brayton cycle with different banking configurations using a stack-based model",
-            "pub_year": "2024",
-            "citation": "Applied Thermal Engineering 242, 122466, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:qUcmZB5y_30C",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14174668495323462173",
-        "cites_id": [
-            "14174668495323462173"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Topology optimized fin structures for performance enhancement of metal hydride reactors",
-            "pub_year": "2024",
-            "citation": "International Journal of Hydrogen Energy 60, 491-502, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:hFOr9nPyWt4C",
-        "num_citations": 3,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16377961644934105957",
-        "cites_id": [
-            "16377961644934105957"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Maximizing liquid-cooled heat sink efficiency with advanced topology-optimized fin designs",
-            "pub_year": "2024",
-            "citation": "International Journal of Heat and Mass Transfer 229, 125746, 2024"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:R3hNpaxXUhUC",
-        "num_citations": 2,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13485079218619452892",
-        "cites_id": [
-            "13485079218619452892"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Hybrid Model for Micro-channel Heat Exchangers used in sCO2 Brayton Power Blocks",
-            "pub_year": "2022",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:8k81kl-MbHgC",
-        "num_citations": 1,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18129869294359778819",
-        "cites_id": [
-            "18129869294359778819"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Numerical modelling of the multi-tubular hydride finned reactor with various fin configurations",
-            "pub_year": "2022",
-            "citation": "https://iifiir.org/en/fridoc/numerical-modelling-of-the-multi-tubular \u2026, 2022"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:3fE2CSJIrl8C",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "A method of manufacturing an energy exchanging device",
-            "pub_year": "2021",
-            "citation": "US Patent https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2,022 \u2026, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:5nxA0vEk-isC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Recuperator Modelling in sCO2 Brayton Power Cycle",
-            "pub_year": "2020",
-            "citation": "ASME Turbo Expo 2020, London, England, 2020"
-        },
-        "filled": false,
-        "author_pub_id": "BknpyzIAAAAJ:roLk4NBRz8UC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Equation of state based analytical formulation for optimization of sCO2 Brayton cycle",
-            "pub_year": "2021",
-            "citation": "The Journal of Supercritical Fluids 177, 105351, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "dcyu5ucAAAAJ:IjCSPb-OGe4C",
-        "num_citations": 14,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17154047698526211220",
-        "cites_id": [
-            "17154047698526211220"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of a 10 MW recompression supercritical carbon dioxide cycle for tropical climatic conditions",
-            "pub_year": "2021",
-            "citation": "Applied Thermal Engineering 186, 116499, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "dcyu5ucAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 11,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3217622347219356704",
-        "cites_id": [
-            "3217622347219356704"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Simple Recuperated s-CO2 Cycle Revisited: Optimization of Operating Parameters for Maximum Cycle Efficiency",
-            "pub_year": "2019",
-            "citation": "Turbo Expo: Power for Land, Sea, and Air 58721, V009T38A002, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "dcyu5ucAAAAJ:qjMakFHDy7sC",
-        "num_citations": 7,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16076966250126982478",
-        "cites_id": [
-            "16076966250126982478"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Test rig design for experimental characterisation of condensation in sCO2 compressors",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "dcyu5ucAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of Propane + CO2 mixture as a working fluid in a vapor compression refrigeration system",
-            "pub_year": "2019",
-            "citation": "8th Conference on Ammonia and CO2 Refrigeration Technology Proceedings, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "YokW28IAAAAJ:Zph67rFs4hoC",
-        "num_citations": 8,
-        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5602259911289506818",
-        "cites_id": [
-            "5602259911289506818"
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Performance Analysis of CO2/Natural Refrigerants for Cascade Refrigeration System",
-            "pub_year": "2021",
-            "citation": "Sixth International Conference on Polygeneration -ICP 2021, 505-514, 2021"
-        },
-        "filled": false,
-        "author_pub_id": "YokW28IAAAAJ:YOwf2qJgpHMC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Experimental analysis of transcritical CO2 booster refrigeration system with heat recovery and ejector expansion",
-            "pub_year": "2019",
-            "citation": "Proceedings of the 25th IIR International Congress of Refrigeration, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "YokW28IAAAAJ:kNdYIx-mwKoC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Analysis of a Hybrid CO2 Vapor Compression and Vapor Ejector Refrigeration System",
-            "pub_year": "2019",
-            "citation": "5th International Conference on Polygeneration, 2019"
-        },
-        "filled": false,
-        "author_pub_id": "YokW28IAAAAJ:KlAtU1dfN6UC",
-        "num_citations": 0
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Investigations on Flow in Supercritical CO2 Ejectors",
-            "pub_year": "2024",
-            "citation": ""
-        },
-        "filled": false,
-        "author_pub_id": "OfRkFNcAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 0
+            "venue": "Applied thermal \u2026",
+            "abstract": "While organic Rankine cycles have been widely used for power generation using low grade thermal energy, Brayton cycles have not been considered feasible because the work required to compress the gas nearly compensates the turbine work output. However, if the low grade energy can be used for thermal compression of the working fluid, it may be possible to gainfully operate the Brayton cycle. With this in mind, a solid sorption based Brayton cycle is proposed in this paper. R134a, CO 2, R507a, propane, R32 and R410a with",
+            "publisher": "Elsevier",
+            "pages": "171--175",
+            "number": "1",
+            "volume": "62",
+            "journal": "Applied thermal engineering",
+            "pub_type": "article",
+            "bib_id": "dutta2014organic"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1359431113006224",
+        "author_id": [
+            "9Kc9XlkAAAAJ",
+            "wGXkEP0AAAAJ",
+            "f20l7mgAAAAJ",
+            "abU4EjAAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:f6jOe2fSUoAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOrganic%2BBrayton%2BCycles%2Bwith%2Bsolid%2Bsorption%2Bthermal%2Bcompression%2Bfor%2Blow%2Bgrade%2Bheat%2Butilization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=f6jOe2fSUoAJ&ei=N4pZZ-qsCsKM6rQPvoHp6A8&json=",
+        "num_citations": 17,
+        "citedby_url": "/scholar?cites=9246684326845655167&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:f6jOe2fSUoAJ:scholar.google.com/&scioq=Organic+Brayton+Cycles+with+solid+sorption+thermal+compression+for+low+grade+heat+utilization&hl=en&as_sdt=0,33",
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1359431113006224"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Induction reheating of A356. 2 aluminum alloy and thixocasting as automobile component",
+            "author": "Lakshmi, H and Kumar, MC Vinay and Kumar, P and Ramanarayanan, V and Murthy, KSS and Dutta, P and others",
+            "pub_year": "2010",
+            "venue": "\u2026 of Nonferrous Metals \u2026",
+            "abstract": "The development work for producing an automobile component by thixocasting using A356. 2 alloy was introduced. As the first step, the alloy was electromagnetically stirred and solidified to produce a billet with non-dendritic microstructure. The microstructure depended on several process parameters such as stirring intensity, stirring frequency, cooling rate, and melt initial superheat. Through a series of computational studies and controlled experiments, a set of process parameters were identified to produce the best microstructures. Reheating",
+            "publisher": "Elsevier",
+            "pages": "s961--s967",
+            "volume": "20",
+            "journal": "Transactions of Nonferrous Metals Society of China",
+            "pub_type": "article",
+            "bib_id": "lakshmi2010induction"
+        },
+        "filled": true,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1003632610606140",
+        "author_id": [
+            "",
+            "p1J3dokAAAAJ",
+            "wGXkEP0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:cKvInEbelgsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInduction%2Breheating%2Bof%2BA356.%2B2%2Baluminum%2Balloy%2Band%2Bthixocasting%2Bas%2Bautomobile%2Bcomponent%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cKvInEbelgsJ&ei=PYpZZ5DqDoWU6rQPlpvO6Aw&json=",
+        "num_citations": 17,
+        "citedby_url": "/scholar?cites=835099175783279472&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:cKvInEbelgsJ:scholar.google.com/&scioq=Induction+reheating+of+A356.+2+aluminum+alloy+and+thixocasting+as+automobile+component&hl=en&as_sdt=0,33"
     }
 ]
