@@ -3,83 +3,140 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thermal System Lab</title>
+    <title>Publication Gallery</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
+            margin: 20px;
         }
-        header {
-            background-color: #003366;
-            color: #fff;
-            padding: 10px 20px;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #004080;
-            padding: 10px 0;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: bold;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-        main {
-            padding: 20px;
-            max-width: 800px;
+        .container {
+            max-width: 1200px;
             margin: auto;
         }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #003366;
-            color: #fff;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+        .filters, .sort-options {
+            margin-bottom: 20px;
+        }
+        .filters input, .sort-options select {
+            padding: 5px;
+            margin-right: 10px;
+        }
+        .publication {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+        .publication-title {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .publication-details {
+            font-size: 0.9em;
+            color: #555;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Thermal System Lab</h1>
-        <p>Explore the world of thermal systems and engineering</p>
-    </header>
-    <nav>
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </nav>
-    <main>
-        <section id="about">
-            <h2>About Us</h2>
-            <p>The Thermal System Lab is dedicated to advancing the understanding and design of thermal systems. We work on innovative projects, conduct cutting-edge research, and collaborate with industry leaders to make impactful contributions.</p>
-        </section>
-        <section id="projects">
-            <h2>Our Projects</h2>
-            <ul>
-                <li>High-Efficiency Heat Exchangers</li>
-                <li>sCO₂ Brayton Cycle Optimization</li>
-                <li>Energy Recovery Systems</li>
-            </ul>
-        </section>
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <p>Email: thermallab@example.com</p>
-            <p>Address: 123 Engineering Drive, Tech City</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Thermal System Lab. All rights reserved.</p>
-    </footer>
+
+    <div class="container">
+        <h1>Publication Gallery</h1>
+
+        <!-- Search bar -->
+        <div class="filters">
+            <label for="search">Search: </label>
+            <input type="text" id="search" placeholder="Search by title or author..." oninput="filterPublications()">
+        </div>
+
+        <!-- Sort options -->
+        <div class="sort-options">
+            <label for="sort">Sort by: </label>
+            <select id="sort" onchange="sortPublications()">
+                <option value="title">Title</option>
+                <option value="year">Year</option>
+                <option value="authors">Authors</option>
+            </select>
+        </div>
+
+        <!-- Filter by year -->
+        <div class="filters">
+            <label for="year-filter">Filter by year: </label>
+            <input type="number" id="year-filter" placeholder="Enter year" oninput="filterPublications()">
+        </div>
+
+        <div id="publications-list"></div>
+    </div>
+
+    <script>
+        let publications = [];
+        let filteredPublications = [];
+
+        // Fetch publications from publications.json
+        async function fetchPublications() {
+            try {
+                const response = await fetch('publications.json');
+                publications = await response.json();
+                filteredPublications = [...publications];  // Initialize filtered list
+                renderPublications();
+            } catch (error) {
+                console.error('Error fetching publications:', error);
+            }
+        }
+
+        // Render publications list
+        function renderPublications() {
+            const publicationsList = document.getElementById('publications-list');
+            publicationsList.innerHTML = '';  // Clear previous list
+
+            filteredPublications.forEach(pub => {
+                const publicationElement = document.createElement('div');
+                publicationElement.className = 'publication';
+
+                publicationElement.innerHTML = `
+                    <div class="publication-title">${pub.title}</div>
+                    <div class="publication-details">
+                        <p><strong>Authors:</strong> ${pub.authors}</p>
+                        <p><strong>Journal:</strong> ${pub.journal}</p>
+                        <p><strong>Year:</strong> ${pub.year}</p>
+                        <p><strong>DOI:</strong> ${pub.doi}</p>
+                    </div>
+                `;
+                publicationsList.appendChild(publicationElement);
+            });
+        }
+
+        // Filter publications by search text and year
+        function filterPublications() {
+            const searchQuery = document.getElementById('search').value.toLowerCase();
+            const yearFilter = document.getElementById('year-filter').value;
+            
+            filteredPublications = publications.filter(pub => {
+                const matchesSearch = pub.title.toLowerCase().includes(searchQuery) || 
+                                      pub.authors.toLowerCase().includes(searchQuery);
+                const matchesYear = yearFilter ? pub.year == yearFilter : true;
+                return matchesSearch && matchesYear;
+            });
+            
+            renderPublications();
+        }
+
+        // Sort publications
+        function sortPublications() {
+            const sortBy = document.getElementById('sort').value;
+
+            filteredPublications.sort((a, b) => {
+                if (sortBy === 'title') {
+                    return a.title.localeCompare(b.title);
+                } else if (sortBy === 'year') {
+                    return b.year - a.year; // Sort descending by year
+                } else if (sortBy === 'authors') {
+                    return a.authors.localeCompare(b.authors);
+                }
+            });
+
+            renderPublications();
+        }
+
+        // Initialize the page
+        fetchPublications();
+    </script>
 </body>
 </html>
