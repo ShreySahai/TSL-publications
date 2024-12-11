@@ -1,126 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publication Manager</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .publication {
-            margin-bottom: 20px;
-        }
-        .publication-details {
-            margin-left: 20px;
-        }
-        .publication button {
-            margin-top: 10px;
-        }
-        #downloadButton {
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-        #downloadButton:hover {
-            background-color: #45a049;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lab Publications</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+}
+header {
+background: #333;
+color: #fff;
+padding: 10px 20px;
+text-align: center;
+}
+.container {
+padding: 20px;
+max-width: 900px;
+margin: auto;
+background: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.publication {
+border-bottom: 1px solid #ddd;
+margin-bottom: 20px;
+padding-bottom: 10px;
+}
+.publication h3 {
+margin: 0;
+}
+.publication a {
+color: #007BFF;
+text-decoration: none;
+}
+.publication a:hover {
+text-decoration: underline;
+}
+footer {
+text-align: center;
+margin-top: 20px;
+color: #555;
+}
+</style>
 </head>
 <body>
+<header>
+<h1>Lab Publications</h1>
+</header>
+<div class="container" id="publications">
+<!-- Publications will be dynamically inserted here -->
+</div>
+<footer>
+&copy; 2024 Lab Publications
+</footer>
 
-    <h1>Manage Publications</h1>
-    <div id="publication-list"></div>
+<script>
+// Load publications.json and render the list
+        fetch('./publications.json')
+.then(response => response.json())
+.then(data => {
+const container = document.getElementById('publications');
 
-    <button id="downloadButton" onclick="downloadJson()">Download Modified JSON</button>
+data.forEach(publication => {
+const div = document.createElement('div');
+div.className = 'publication';
 
-    <script>
-        let publications = []; // This will hold the JSON data
+const title = document.createElement('h3');
+title.innerHTML = `<a href="${publication.pub_url || '#'}" target="_blank">${publication.bib.title}</a>`;
 
-        // Fetch JSON file from a URL (replace the URL with the actual location of your JSON file)
-        fetch('/publications.json')
-            .then(response => response.json())
-            .then(data => {
-                publications = data; // Store fetched data in the publications array
-                displayPublications(); // Call function to display publications
-            })
-            .catch(error => {
-                console.error('Error fetching JSON:', error);
-            });
+const authors = document.createElement('p');
+authors.textContent = `Authors: ${publication.bib.author}`;
 
-        // Function to display publications
-        function displayPublications() {
-            const listContainer = document.getElementById('publication-list');
-            listContainer.innerHTML = ''; // Clear any existing publications
+const year = document.createElement('p');
+year.textContent = `Year: ${publication.bib.pub_year}`;
 
-            publications.forEach((pub, index) => {
-                const pubDiv = document.createElement('div');
-                pubDiv.classList.add('publication');
+const venue = document.createElement('p');
+venue.textContent = `Venue: ${publication.bib.venue || 'N/A'}`;
 
-                // Publication details
-                const title = document.createElement('h3');
-                title.innerText = pub.bib.title;
-                pubDiv.appendChild(title);
+const abstract = document.createElement('p');
+abstract.textContent = `Abstract: ${publication.bib.abstract || 'N/A'}`;
 
-                const author = document.createElement('p');
-                author.innerText = 'Author(s): ' + pub.bib.author;
-                pubDiv.appendChild(author);
+div.appendChild(title);
+div.appendChild(authors);
+div.appendChild(year);
+div.appendChild(venue);
+div.appendChild(abstract);
 
-                const year = document.createElement('p');
-                year.innerText = 'Year: ' + pub.bib.pub_year;
-                pubDiv.appendChild(year);
-
-                const venue = document.createElement('p');
-                venue.innerText = 'Venue: ' + pub.bib.venue;
-                pubDiv.appendChild(venue);
-
-                // Checkbox for deleting publication
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = 'delete_' + index;
-                pubDiv.appendChild(checkbox);
-
-                const label = document.createElement('label');
-                label.setAttribute('for', 'delete_' + index);
-                label.innerText = 'Delete this publication';
-                pubDiv.appendChild(label);
-
-                listContainer.appendChild(pubDiv);
-            });
-        }
-
-        // Function to delete selected publications
-        function deleteSelectedPublications() {
-            publications = publications.filter((pub, index) => {
-                const checkbox = document.getElementById('delete_' + index);
-                return !checkbox.checked;
-            });
-        }
-
-        // Function to download modified JSON
-        function downloadJson() {
-            // Delete selected publications before downloading
-            deleteSelectedPublications();
-
-            // Convert the modified publications array to a JSON string
-            const jsonString = JSON.stringify(publications, null, 2);
-
-            // Create a Blob with the JSON string
-            const blob = new Blob([jsonString], { type: 'application/json' });
-
-            // Create a link element
-            const link = document.createElement('a');
-            link.href = URL.createObjectURL(blob);
-            link.download = 'modified_publications.json';  // Specify the filename
-
-            // Trigger the download
-            link.click();
-        }
-    </script>
-
+container.appendChild(div);
+});
+})
+.catch(error => {
+console.error('Error loading publications:', error);
+const container = document.getElementById('publications');
+container.innerHTML = '<p>Error loading publications. Please try again later.</p>';
+});
+</script>
 </body>
-</html>
